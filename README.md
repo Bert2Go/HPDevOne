@@ -15,6 +15,10 @@ Coupon Code: **HP89** (Last tested August 6th 2022)
 
 ## Upgrade Options
 
+## Add-On Notes
+
+- I have the Samsumg G9 Ultra Wide Monitor with a max resolution of 5120x1440p and the HP Dev One connected to it while supporting the laptop screen and the max resolution of the Samsung G9 at the same time, using the HDMI port. No issues at all.
+
 ## Useful Link
 
 - [HP Dev One Product Website](https://hpdevone.com/)
