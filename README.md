@@ -18,6 +18,11 @@ Coupon Code: **HP89** (Last tested August 6th 2022)
 ## Useful Link
 
 - [HP Dev One Product Website](https://hpdevone.com/)
+- [Coupon Code Source on Reddit](https://www.reddit.com/r/linuxhardware/comments/vujx95/hp_dev_one_coupon/)
+
+## Credits
+
+- Coupon Code mentioned by [bad_ingots](https://www.reddit.com/user/bad_ingots/) on July 8th 2022 on Reddit
 
 ## Disclaimer
 *I am not receiving any financial kickbacks for any of the links and content. I bought my HP Dev One with my own money. I am sharing information readily available on the internet along with my own personal experiences in regards of this laptop.*
