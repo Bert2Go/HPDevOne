@@ -1,4 +1,4 @@
-# Information About The HP Dev One
+# My HP Dev One Guide
 
 ## Coupon Code
 
