@@ -9,7 +9,8 @@ Coupon Code: **HP89** (Last tested August 6th 2022)
 
 ## Shipping Information
 
-**FedEx** delivered my laptop. Delivery time is **1-2 business days**.
+- **FedEx** delivered my laptop. Delivery time is **1-2 business days**.
+- People are reporting that HP doesn't ship this laptop to Canada. That said it I have a feeling HP ships this laptop only within the USA.
 
 ## Technical Specs
 
