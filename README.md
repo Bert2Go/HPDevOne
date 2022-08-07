@@ -15,6 +15,11 @@ Coupon Code: **HP89** (Last tested August 6th 2022)
 ## Technical Specs
 
 ## Upgrade Options
+### Memory
+Teamgroup Elite DDR4 64GB Kit (2x32GB) 3200MHZ PC4-25600 CL22 Unbuffered Non-ECC 1.2V SODIMM 260-Pin  
+Where to buy: [Walmart](https://www.walmart.com/ip/Team-Group-Inc-TED464G3200C22DC-S01-Nbm-2-32g-team-Ted464g3200c22dc-s01/844902433) [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08TQBY2NR), [newegg](https://www.newegg.com/team-64gb-260-pin-ddr4-so-dimm/p/N82E16820331505)
+
+*Note: I you used different ram with your HP Dev One, please contact me or open a pull request. I would like to add it to this section.*
 
 ## Add-On Notes
 
