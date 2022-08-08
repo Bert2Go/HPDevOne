@@ -1,4 +1,15 @@
-# My HP Dev One Guide
+# HP Dev One Guide
+
+- [Coupon Code](#coupon-code)
+- [Shipping Information](#shipping-information)
+- [Technical Specs](#technical-specs)
+- [Upgrade Options](#upgrade-options)
+  - [Memory](#memory)
+- [External Devices and Accessories](#external-devices-and-accessories)
+  - [Monitors](#monitors)
+- [Useful Links](#useful-links)
+- [Credits](#credits)
+- [Disclaimer](#disclaimer)
 
 ## Coupon Code
 
@@ -23,11 +34,11 @@ Where to buy: [newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N
 
 *Note: I you used different ram with your HP Dev One, please contact me or open a pull request. I would like to add it to this section.*
 
-## Add-On Notes
-
+## External Devices and Accessories  
+### Monitors
 - I have the Samsumg G9 Ultra Wide Monitor with a max resolution of 5120x1440p and the HP Dev One connected to it while supporting the laptop screen and the max resolution of the Samsung G9 at the same time, using the HDMI port. No issues at all.
 
-## Useful Link
+## Useful Links
 
 - [HP Dev One Product Website](https://hpdevone.com/)
 - [Coupon Code Source on Reddit](https://www.reddit.com/r/linuxhardware/comments/vujx95/hp_dev_one_coupon/)
