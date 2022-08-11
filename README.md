@@ -48,4 +48,5 @@ Where to buy: [newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N
 - Coupon Code mentioned by [bad_ingots](https://www.reddit.com/user/bad_ingots/) on July 8th 2022 on Reddit
 
 ## Disclaimer
-*I am not receiving any financial kickbacks for any of the links and content. I bought my HP Dev One with my own money. I am sharing information readily available on the internet along with my own personal experiences in regards of this laptop.*
+* **This is a work in progress, any shareing of this guide and/or pull request is appreciated. Feel free to contact me directly if needed.**
+* I am not receiving any financial kickbacks for any of the links and content. I bought my HP Dev One with my own money. I am sharing information readily available on the internet along with my own personal experiences in regards of this laptop.*
