@@ -7,6 +7,7 @@
   - [Memory](#memory)
 - [External Devices and Accessories](#external-devices-and-accessories)
   - [Monitors](#monitors)
+- [Videos](#videos)
 - [Useful Links](#useful-links)
 - [Credits](#credits)
 - [Disclaimer](#disclaimer)
@@ -37,6 +38,12 @@ Where to buy: [newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N
 ## External Devices and Accessories  
 ### Monitors
 - I have the Samsumg G9 Ultra Wide Monitor with a max resolution of 5120x1440p and the HP Dev One connected to it while supporting the laptop screen and the max resolution of the Samsung G9 at the same time, using the HDMI port. No issues at all.
+
+## Videos
+
+- A Series of two videos about the HP Dev One that I find very useful and informative by [Learn Linux TV](https://www.youtube.com/c/LearnLinuxtv)  
+[HP Dev One Full Review (Part 1) - First Impressions: Hardware Overview, Software Integration & More!](https://www.youtube.com/watch?v=qF63-jT9_ZQ)  
+[HP Dev One Full Review (Part 2) - Upgrading RAM, Running Other Distros & More!](https://www.youtube.com/watch?v=zJotySEbj3o)
 
 ## Useful Links
 
