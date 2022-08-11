@@ -42,7 +42,8 @@ Where to buy: [newegg](https://www.newegg.com/corsair-32gb-260-pin-ddr4-so-dimm/
 ## External Devices and Accessories  
 
 ### Monitors
-- I have the Samsumg G9 Ultra Wide Monitor with a max resolution of 5120x1440p and the HP Dev One connected to it while supporting the laptop screen and the max resolution of the Samsung G9 at the same time, using the HDMI port. No issues at all.
+- SAMSUNG 49-inch Odyssey G9 Gaming Monitor:  
+Monitors max resolution is 5120x1440p and max refresh rate is 120Hz. All resolutions are supported. In the settings it shows as 'Unknown 49"' with a refresh rate selection of 59.98Hz only, it should go up to 120Hz, it shows that on my Pop_OS! Linux desktop. This could be due to the HDMI cable limitations. I will check with other cables and also try the USB-C port using an adapter since the Monitor doesn't have a USB-C monitor input.
 
 ### Hubs
 - [DELL D6000 Universal USB-C/USB-A Dock](https://www.dell.com/support/home/en-us/product-support/product/dell-universal-dock-d6000/docs), [Spec Sheet (PDF)](https://www.delltechnologies.com/asset/en-us/products/electronics-and-accessories/technical-support/Dell_Universal_Dock_D6000_Spec_Sheet.pdf)  
