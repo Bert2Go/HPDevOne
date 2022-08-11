@@ -8,6 +8,7 @@
   - [Memory](#memory)
 - [External Devices and Accessories](#external-devices-and-accessories)
   - [Monitors](#monitors)
+  - [Hubs](#hubs)
 - [Videos](#videos)
 - [Useful Links](#useful-links)
 - [Credits](#credits)
@@ -39,8 +40,17 @@ Where to buy: [newegg](https://www.newegg.com/corsair-32gb-260-pin-ddr4-so-dimm/
 *Note: I you used different ram with your HP Dev One, please contact me or open a pull request. I would like to add it to this section.*
 
 ## External Devices and Accessories  
+
 ### Monitors
 - I have the Samsumg G9 Ultra Wide Monitor with a max resolution of 5120x1440p and the HP Dev One connected to it while supporting the laptop screen and the max resolution of the Samsung G9 at the same time, using the HDMI port. No issues at all.
+
+### Hubs
+- [DELL D6000 Universal USB-C/USB-A Dock](https://www.dell.com/support/home/en-us/product-support/product/dell-universal-dock-d6000/docs), [Spec Sheet (PDF)](https://www.delltechnologies.com/asset/en-us/products/electronics-and-accessories/technical-support/Dell_Universal_Dock_D6000_Spec_Sheet.pdf)  
+On the back it has 1x Power Input, 1x HDMI, 2x DisplayLink, 1x Ethernet, 2x USB 3.0, 1x Speaker Out and in the front it has 1x USB 3.0, 1x USB 3.0/BC1.2, 1x USB-C/BC1.2, 1x Audio Combo. The cable to the computer is a USB-C along with an adapter for USB-A!  
+**Important**: If you DO NOT already have the display link drivers installed for Pop_OS!, you need to install them in order to use the displayLink ports in the back. [Download the displayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
+*Note: A nice to have is if you use the USB-C port to connect to the HP Dev One, the dock will charge the HP Dev One.  
+There is also a version D6000S, which DOES NOT have any audio jacks! Info by [raldara on Reddit](https://www.reddit.com/r/Dell/comments/vn617z/comment/ie5bh28/?utm_source=share&utm_medium=web2x&context=3)*  
+Where to buy: newegg [New](https://www.newegg.com/black-dell-d6000/p/1DN-0002-000H2)/[Refurbished](https://www.newegg.com/dell-d6000-black/p/1DN-0002-00581), [Amazon](https://www.amazon.com/Dell-452-BCYT-D6000-Universal-Black/dp/B071YTQBXM)
 
 ## Videos
 
