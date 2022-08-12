@@ -6,6 +6,9 @@
 - [Technical Specs](#technical-specs)
 - [Upgrade Options](#upgrade-options)
   - [Memory](#memory)
+    - [TeamGroup](#teamgroup)
+    - [Corsair](#corsair)
+    - [G Skill](#g-skill)
 - [External Devices and Accessories](#external-devices-and-accessories)
   - [Monitors](#monitors)
   - [Hubs](#hubs)
@@ -34,15 +37,23 @@ Coupon Code: **HP89** (Last tested August 6th 2022)
 
 ## Upgrade Options
 ### Memory
-- Teamgroup Elite DDR4 **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 Unbuffered Non-ECC 1.2V SODIMM 260-Pin  
+
+#### TeamGroup
+  - Teamgroup Elite DDR4 **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 Unbuffered Non-ECC 1.2V SODIMM 260-Pin  
 Where to buy: [newegg](https://www.newegg.com/team-64gb-260-pin-ddr4-so-dimm/p/N82E16820331505), [Walmart](https://www.walmart.com/ip/Team-Group-Inc-TED464G3200C22DC-S01-Nbm-2-32g-team-Ted464g3200c22dc-s01/844902433), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08TQBY2NR)
-- Teamgroup Elite DDR4 **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 Unbuffered Non-ECC 1.2V SODIMM 260-Pin  
+  - Teamgroup Elite DDR4 **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 Unbuffered Non-ECC 1.2V SODIMM 260-Pin  
 Where to buy: [newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N82E16820331504), [Walmart](https://www.walmart.com/ip/Team-TED432G3200C22DC-S01-Elite-2-x-16GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-Laptop-Memory-Model/252223474), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08T17RQ87?th=1)
-- Corsair Vengeance Performance DDR4 **32GB kit** (2x16GB) 3200MHz PC4-25600 CL22 Non-ECC 1.2V SO-DIMM 260-Pin  
+
+#### Corsair
+  - Corsair Vengeance Performance DDR4 **64GB kit** (2x32GB) 3200MHz PC4-25600 CL22 Non-ECC 1.2V SO-DIMM 260-Pin  
+Where to buy: [newegg](https://www.newegg.com/corsair-64gb-260-pin-ddr4-so-dimm/p/N82E16820236807), [Amazon](https://www.amazon.com/Vengeance-Performance-3200MHz-Unbuffered-notebooks/dp/B09DTG3BD7)
+  - Corsair Vengeance Performance DDR4 **32GB kit** (2x16GB) 3200MHz PC4-25600 CL22 Non-ECC 1.2V SO-DIMM 260-Pin  
 Where to buy: [newegg](https://www.newegg.com/corsair-32gb-260-pin-ddr4-so-dimm/p/N82E16820236681), [Walmart](https://www.walmart.com/ip/Corsair-CMSX32GX4M2A3200C22-32GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-MHz-Laptop-Memory-Module/372409453), [Amazon](https://www.amazon.com/gp/product/B08GSTF5NJ)
-- G.SKILL Ripjaws Series DDR4 (Model F4-3200C22D-32GRS) **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin
+
+#### G Skill
+  - G.SKILL Ripjaws Series DDR4 (Model F4-3200C22D-32GRS) **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin
 Where to buy: [newegg](https://www.newegg.com/g-skill-32gb-260-pin-ddr4-so-dimm/p/N82E16820374024)
-- G.SKILL Ripjaws Series DDR4 (Model F4-3200C22D-64GRS) **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin
+  - G.SKILL Ripjaws Series DDR4 (Model F4-3200C22D-64GRS) **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin
 Where to buy: [newegg](https://www.newegg.com/g-skill-64gb-260-pin-ddr4-so-dimm/p/N82E16820374025) 
 
 *Note: I you used different ram with your HP Dev One, please contact me or open a pull request. I would like to add it to this section.*
