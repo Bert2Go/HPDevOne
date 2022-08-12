@@ -9,6 +9,7 @@
 - [External Devices and Accessories](#external-devices-and-accessories)
   - [Monitors](#monitors)
   - [Hubs](#hubs)
+  - [Chargers](#chargers)
 - [Videos](#videos)
 - [Useful Links](#useful-links)
 - [Credits](#credits)
@@ -52,6 +53,14 @@ On the back it has 1x Power Input, 1x HDMI, 2x DisplayLink, 1x Ethernet, 2x USB 
 *Note: A nice to have is if you use the USB-C port to connect to the HP Dev One, the dock will charge the HP Dev One.  
 There is also a version D6000S, which DOES NOT have any audio jacks! Info by [raldara on Reddit](https://www.reddit.com/r/Dell/comments/vn617z/comment/ie5bh28/?utm_source=share&utm_medium=web2x&context=3)*  
 Where to buy: newegg [New](https://www.newegg.com/black-dell-d6000/p/1DN-0002-000H2)/[Refurbished](https://www.newegg.com/dell-d6000-black/p/1DN-0002-00581), [Amazon](https://www.amazon.com/Dell-452-BCYT-D6000-Universal-Black/dp/B071YTQBXM)
+
+### Chargers
+
+- 65W Type C USB AC Charger  
+This charge is affordable and charges the HP Dev One through it's USB-C port.  
+Where to buy: [Amazon](https://www.amazon.com/gp/product/B09B78WPXK)  
+
+*Note: Additional chargers are great when you travel between different locations, like home and office. Have a charger for each location. Always the worse when you get where you need to go and the charge was forgotten :D*
 
 ## Videos
 
