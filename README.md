@@ -11,6 +11,9 @@
   - [Hubs](#hubs)
   - [Chargers](#chargers)
 - [Videos](#videos)
+- [Support and Connect Information](#support-and-connect-information)
+  - [HP](#hp)
+  - [Pop OS and System76](#pop-os-and-system76)
 - [Useful Links](#useful-links)
 - [Credits](#credits)
 - [Disclaimer](#disclaimer)
@@ -71,6 +74,27 @@ Where to buy: [Amazon](https://www.amazon.com/gp/product/B09B78WPXK)
 - A Series of two videos about the HP Dev One that I find very useful and informative by [Learn Linux TV](https://www.youtube.com/c/LearnLinuxtv)  
 [HP Dev One Full Review (Part 1) - First Impressions: Hardware Overview, Software Integration & More!](https://www.youtube.com/watch?v=qF63-jT9_ZQ)  
 [HP Dev One Full Review (Part 2) - Upgrading RAM, Running Other Distros & More!](https://www.youtube.com/watch?v=zJotySEbj3o)
+
+## Support and Connect Information
+
+### HP 
+
+- Login to your HP Account or create an HP Account to initiate a support ticket.
+- Tech Support: Mo-Su 5a-5p (PST)
+- Order Status Inquiries: Mo-Fr 8:30a to 5p (MST)
+- Email: [support@hpdevone.com](mailto:support@hpdevone.com)
+- Facebook: [HP](https://www.facebook.com/HP)
+- LinkedIn: [HP](https://www.linkedin.com/company/hp)
+- twitter: [HP](https://twitter.com/HP)
+- YouTube: [HP](https://www.youtube.com/HP)
+
+### Pop OS and System76
+
+- Facebook: [PopOSOfficial](https://www.facebook.com/poposofficial)
+- Instagram: [PopOSOfficial](https://www.instagram.com/pop_os_official/)
+- twitter: [PopOSOfficial](https://twitter.com/pop_os_official)
+- GitHub: [System76](https://github.com/system76)
+- YouTube: [System76](https://www.youtube.com/c/System76)
 
 ## Useful Links
 
