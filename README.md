@@ -91,6 +91,7 @@ Where to buy: [Amazon](https://www.amazon.com/gp/product/B09B78WPXK)
 ### HP 
 
 - Login to your HP Account or create an HP Account to initiate a support ticket.
+- [Support on hpdevone.com](https://hpdevone.com/user/support). *Note: User has to be logged on else there will be a blank page only.*
 - Tech Support: Mo-Su 5a-5p (PST)
 - Order Status Inquiries: Mo-Fr 8:30a to 5p (MST)
 - Email: [support@hpdevone.com](mailto:support@hpdevone.com)
