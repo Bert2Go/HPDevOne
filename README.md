@@ -13,6 +13,7 @@
   - [Monitors](#monitors)
   - [Hubs](#hubs)
   - [Chargers](#chargers)
+- [Function Keys Explained](#function-keys-explained)
 - [Videos](#videos)
 - [Support and Connect Information](#support-and-connect-information)
   - [HP](#hp)
@@ -79,6 +80,22 @@ This charge is affordable and charges the HP Dev One through it's USB-C port.
 Where to buy: [Amazon](https://www.amazon.com/gp/product/B09B78WPXK)  
 
 *Note: Additional chargers are great when you travel between different locations, like home and office. Have a charger for each location. Always the worse when you get where you need to go and the charge was forgotten :D*
+
+## Function Keys Explained
+HP didn't include any explanation about the FN Keys. So this is where this section comes in handy, it will add a quick description to the FN Keys.
+FN-F1: Screen symbol with a bar to the right and the left
+| Function Key  | Image/Icon | Descripotion |
+| ------------- | ---------- | ------------ |
+| F1  | Rounded Rectangle with a bar to the left and right of it | When connected to an external screen it offers ways to interact with that external screen. You can cycle through the following options when using this function key: Mirror ( Laptop Screen and External Screen show the same screen content, the laptop screen content ), Join Display ( Using all screen with each their own screen conten ), External Only ( The laptop screen will be turned off while the External Screen stays on), Built-In Only ( Only the Laptop screen will be active, all external screens will be turned off) |
+| F3 | Small Sun | Decrease screen brightness |
+| F4 | Large Sun | Increase screen brightness |
+| F5 | Vertical line through speaker | Toggle sound on/off |
+| F6 | Speaker with one wave | Decrease sound volume |
+| F7 | Speaker with three waves | Increase sound volume |
+| F8 | Vertical line through microphone | Mute microphone |
+| F9 | Keyboard with outer lines | Cycle through keyboard backlight brightness |
+| F11 | Plane | Toggle airplane mode |
+| F12 | Triple Square | Programmable hotkey |
 
 ## Videos
 
