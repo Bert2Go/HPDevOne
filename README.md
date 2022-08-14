@@ -112,6 +112,7 @@ FN-F1: Screen symbol with a bar to the right and the left
 - Tech Support: Mo-Su 5a-5p (PST)
 - Order Status Inquiries: Mo-Fr 8:30a to 5p (MST)
 - Email: [support@hpdevone.com](mailto:support@hpdevone.com)
+- Creating a Suppport ticket through Pop!_OS on the HP Dev One: Open Settings and click on Support
 - Facebook: [HP](https://www.facebook.com/HP)
 - LinkedIn: [HP](https://www.linkedin.com/company/hp)
 - twitter: [HP](https://twitter.com/HP)
