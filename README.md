@@ -15,6 +15,8 @@
   - [Chargers](#chargers)
 - [Function Keys Explained](#function-keys-explained)
 - [Videos](#videos)
+  - [Removing and Replacing Parts](#removing-and-replacing-parts)
+  - [Series of two Videos about about the HP Dev One](#series-of-two-videos-about-about-the-hp-dev-one)
 - [Support and Connect Information](#support-and-connect-information)
   - [HP](#hp)
   - [Pop OS and System76](#pop-os-and-system76)
@@ -99,9 +101,22 @@ FN-F1: Screen symbol with a bar to the right and the left
 
 ## Videos
 
-- A Series of two videos about the HP Dev One that I find very useful and informative by [Learn Linux TV](https://www.youtube.com/c/LearnLinuxtv)  
-[HP Dev One Full Review (Part 1) - First Impressions: Hardware Overview, Software Integration & More!](https://www.youtube.com/watch?v=qF63-jT9_ZQ)  
-[HP Dev One Full Review (Part 2) - Upgrading RAM, Running Other Distros & More!](https://www.youtube.com/watch?v=zJotySEbj3o)
+### Removing and Replacing Parts
+
+- [Removing & Replacing Parts by HP](https://www.youtube.com/watch?v=RkAOS9f5p1I) - Great find by [cutememe](https://www.reddit.com/r/System76/comments/wlpfrk/comment/ikf5oys/?utm_source=share&utm_medium=web2x&context=3)  
+*Note: Even though this is for the HP EliteBook 845 G8 Notebook it can be fully applied to the HP Dev One, aside of a few exceptions/differences mentioned below.*  
+List of exceptions/differences in this video that do NOT apply to the HP Dev One:
+  - The screws to open the case are not P1 Phillips-Head screws, they are Torx T5 screws for the HP Dev One.
+  - The video shows a WAN module covered by a mylar shield, the HP Dev One does NOT have this piece of hardware
+  - The video shows an NFC Board, the HP Dev One does NOT have this piece of hardware
+  - The video shows a Smart Card Board, the HP Dev One does NOT have this piece of hardware 
+  - The video shows a Fingerprint Reader Board, the HP Dev One does NOT have this piece of hardware
+
+### Series of two Videos about about the HP Dev One
+
+- [HP Dev One Full Review (Part 1) - First Impressions: Hardware Overview, Software Integration & More!](https://www.youtube.com/watch?v=qF63-jT9_ZQ)  
+- [HP Dev One Full Review (Part 2) - Upgrading RAM, Running Other Distros & More!](https://www.youtube.com/watch?v=zJotySEbj3o)  
+*Note: Videos by [Learn Linux TV](https://www.youtube.com/c/LearnLinuxtv)*
 
 ## Support and Connect Information
 
