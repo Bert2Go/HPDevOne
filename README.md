@@ -23,6 +23,7 @@
 - [Useful Links](#useful-links)
 - [Credits](#credits)
 - [Disclaimer](#disclaimer)
+- [Buy Me A Coffee](#buy-me-a-coffee)
 
 ## Coupon Code
 
@@ -153,3 +154,9 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 ## Disclaimer
 * **This is a work in progress, any sharing of this guide and/or pull request is appreciated. Feel free to contact me directly if needed.**
 * I am not receiving any financial kickbacks for any of the links and content. I bought my HP Dev One with my own money. I am sharing information readily available on the internet along with my own personal experiences in regards of this laptop.*
+
+## Buy me a Coffee
+
+Absolutely optional and not required. If you like to support my work, feel free to  
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Bert2Go)  
+Thank you!
