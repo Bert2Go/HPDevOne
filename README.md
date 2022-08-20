@@ -22,14 +22,13 @@
   - [HP](#hp)
   - [Pop OS and System76](#pop-os-and-system76)
 - [Useful Links](#useful-links)
-- [Credits](#credits)
 - [Disclaimer](#disclaimer)
 - [Buy Me A Coffee](#buy-me-a-coffee)
 
 ## Coupon Code
 
 A currently available Coupon Code takes **$89 off**!  
-Coupon Code: **HP89** (Last tested August 6th 2022)
+Coupon Code: **HP89** (Last tested August 6th 2022) - *Credit: [bad_ignots](https://www.reddit.com/r/linuxhardware/comments/vujx95/hp_dev_one_coupon/?utm_source=share&utm_medium=web2x&context=3)*
 
 ***Note:*** *I am not sure when this Coupon Code is going to expire.*
 
@@ -158,10 +157,6 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 - [HP Dev One Product Website](https://hpdevone.com/)
 - [HP Dev One Product Website - FAQ Section](https://hpdevone.com/faq)
 - [Coupon Code Source on Reddit](https://www.reddit.com/r/linuxhardware/comments/vujx95/hp_dev_one_coupon/)
-
-## Credits
-
-- Coupon Code mentioned by [bad_ingots](https://www.reddit.com/user/bad_ingots/) on July 8th 2022 on Reddit
 
 ## Disclaimer
 * **This is a work in progress, any sharing of this guide and/or pull request is appreciated. Feel free to contact me directly if needed.**
