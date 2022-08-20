@@ -20,6 +20,7 @@
   - [Series of two Videos about about the HP Dev One](#series-of-two-videos-about-about-the-hp-dev-one)
 - [Pros and Cons](#pros-and-cons)
 - [Support and Connect Information](#support-and-connect-information)
+  - [Known Issues](#known-issues)
   - [HP](#hp)
   - [Pop OS and System76](#pop-os-and-system76)
 - [Useful Links](#useful-links)
@@ -139,7 +140,19 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 | Offers USB-C & USB-A Ports | Glossy Display contributes to eye strain |
 | Can be charged through the USB-C Port | |
 
+## Using Other Linux Distributions
+
+- It is possible to use any linux distribution in place of Pop OS. The only downside being that you can't update the firmware or bios without some additional work. 
+- The official documentation for System 76 firmware upgrade suggests to use a live-usb of Pop OS to create an environment for updating the firmware.
+- For Arch Linux, you can install the `firmware-manager` and `system76-firmware` from the [AUR](https://aur.archlinux.org/).
+	- Once installed, execute `fwupdmgr refresh --force` to identify your device and relevant updates with the service.
+	- From here, you can use the GTK-based GUI in Firmware Manager to update. If you have an issue with checksum authentication, run the commend `fwupdmgr get-updates` followed by `fwupdmgr install --force` to force the upgrade.
+
 ## Support and Connect Information
+
+### Known Issues
+
+- On boot, the bios may show the `90B` System Fan Error. This is a known bug that was patched with a later firmware/bios update. If you experience this issue, update the firmware.
 
 ### HP 
 
@@ -167,6 +180,7 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 - [HP Dev One Product Website](https://hpdevone.com/)
 - [HP Dev One Product Website - FAQ Section](https://hpdevone.com/faq)
 - [Coupon Code Source on Reddit](https://www.reddit.com/r/linuxhardware/comments/vujx95/hp_dev_one_coupon/)
+- [System 76 Firmware Upgrade](https://support.system76.com/articles/system-firmware/)
 
 ## Disclaimer
 * **This is a work in progress, any sharing of this guide and/or pull request is appreciated. Feel free to contact me directly if needed.**
