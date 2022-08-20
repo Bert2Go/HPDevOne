@@ -156,6 +156,7 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 ## Useful Links
 
 - [HP Dev One Product Website](https://hpdevone.com/)
+- [HP Dev One Product Website - FAQ Section](https://hpdevone.com/faq)
 - [Coupon Code Source on Reddit](https://www.reddit.com/r/linuxhardware/comments/vujx95/hp_dev_one_coupon/)
 
 ## Credits
