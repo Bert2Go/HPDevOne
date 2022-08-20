@@ -72,7 +72,7 @@ Where to buy: [newegg](https://www.newegg.com/g-skill-64gb-260-pin-ddr4-so-dimm/
 
 #### 4TB
 
-- **Inland** Platinum 4TB SSD M.2 2280 NVMe PCIe Gen 3.0 x 4 3D NAND Internal Solid State Drive, PCIe Express 3.1 and NVMe 1.3 Compatible  
+- **Inland** Platinum 4TB SSD M.2 2280 NVMe PCIe Gen 3.0 x 4 3D NAND Internal Solid State Drive, PCIe Express 3.1 and NVMe 1.3 Compatible - *Credit [brademerica](https://www.reddit.com/r/pop_os/comments/wbk9pm/comment/ii7ck08/?utm_source=share&utm_medium=web2x&context=3)*  
 Where to buy: [Amazon](https://www.amazon.com/Inland-Platinum-Internal-Compatible-Solutions/dp/B08FT8LFNM)
 
 ### Monitors
