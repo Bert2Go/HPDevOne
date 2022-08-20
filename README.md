@@ -18,6 +18,7 @@
 - [Videos](#videos)
   - [Removing and Replacing Parts](#removing-and-replacing-parts)
   - [Series of two Videos about about the HP Dev One](#series-of-two-videos-about-about-the-hp-dev-one)
+- [Pros and Cons](#pros-and-cons)
 - [Support and Connect Information](#support-and-connect-information)
   - [HP](#hp)
   - [Pop OS and System76](#pop-os-and-system76)
@@ -128,6 +129,15 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 - [HP Dev One Full Review (Part 1) - First Impressions: Hardware Overview, Software Integration & More!](https://www.youtube.com/watch?v=qF63-jT9_ZQ)  
 - [HP Dev One Full Review (Part 2) - Upgrading RAM, Running Other Distros & More!](https://www.youtube.com/watch?v=zJotySEbj3o)  
 *Note: Videos by [Learn Linux TV](https://www.youtube.com/c/LearnLinuxtv)*
+
+## Pros and Cons
+
+**🟥 IN PROGRESS 🟥**
+
+| Pros | Cons |
+| :------------ | :--------- |
+| Offers USB-C & USB-A Ports | Glossy Display contributes to eye strain |
+| Can be charged through the USB-C Port | |
 
 ## Support and Connect Information
 
