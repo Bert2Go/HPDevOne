@@ -168,6 +168,14 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 
 ## Buy me a Coffee
 
-Absolutely optional and not required. If you like to support my work, feel free to  
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Bert2Go)  
-Thank you!
+<p align="center">
+  If you like to support my work, feel free to  
+</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Bert2Go">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee Image" />
+  </a>
+</p>
+<p align="center">
+  Thank you!
+</p>
