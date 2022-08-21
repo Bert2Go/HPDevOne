@@ -20,11 +20,13 @@
   - [Series of two Videos about about the HP Dev One](#series-of-two-videos-about-about-the-hp-dev-one)
 - [Pros and Cons](#pros-and-cons)
 - [Using Other Linux Distributions](#using-other-linux-distributions)
+  - [Archi Linux](#arch-linux)
 - [Support and Connect Information](#support-and-connect-information)
   - [Known Issues](#known-issues)
   - [HP](#hp)
   - [Pop OS and System76](#pop-os-and-system76)
 - [Useful Links](#useful-links)
+- Contributors(#contributors)
 - [Disclaimer](#disclaimer)
 - [Buy Me A Coffee](#buy-me-a-coffee)
 
@@ -143,8 +145,11 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 
 ## Using Other Linux Distributions
 
-- It is possible to use any linux distribution in place of Pop OS. The only downside being that you can't update the firmware or bios without some additional work. 
-- The official documentation for System 76 firmware upgrade suggests to use a live-usb of Pop OS to create an environment for updating the firmware.
+It is possible to use any linux distribution in place of Pop OS. The only downside being that you can't update the firmware or bios without some additional work. 
+
+The official documentation for [System 76 firmware upgrade](https://support.system76.com/articles/system-firmware/) suggests to use a live-usb of Pop OS to create an environment for updating the firmware.
+
+### Arch Linux
 - For Arch Linux, you can install the `firmware-manager` and `system76-firmware` from the [AUR](https://aur.archlinux.org/).
 	- Once installed, execute `fwupdmgr refresh --force` to identify your device and relevant updates with the service.
 	- From here, you can use the GTK-based GUI in Firmware Manager to update. If you have an issue with checksum authentication, run the commend `fwupdmgr get-updates` followed by `fwupdmgr install --force` to force the upgrade.
@@ -182,6 +187,14 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 - [HP Dev One Product Website - FAQ Section](https://hpdevone.com/faq)
 - [Coupon Code Source on Reddit](https://www.reddit.com/r/linuxhardware/comments/vujx95/hp_dev_one_coupon/)
 - [System 76 Firmware Upgrade](https://support.system76.com/articles/system-firmware/)
+
+## Contributors
+
+Thank you to all contributors to the HP Dev One Guide. I really appreciate your help. Contributors are mentioned either inline throughout this documentation or in the list below if they contributed using a pull request.
+
+Pull request contributors:  
+
+<img src="https://avatars.githubusercontent.com/u/51793?s=60&v=4" alt="fkumro" width="32" height="32" /><img src="https://avatars.githubusercontent.com/u/87946040?s=60&v=4" alt="woltersdylan" width="32" height="32" />
 
 ## Disclaimer
 * **This is a work in progress, any sharing of this guide and/or pull request is appreciated. Feel free to contact me directly if needed.**
