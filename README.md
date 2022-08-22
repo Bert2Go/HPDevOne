@@ -26,7 +26,7 @@
   - [HP](#hp)
   - [Pop OS and System76](#pop-os-and-system76)
 - [Useful Links](#useful-links)
-- Contributors(#contributors)
+- [Contributors](#contributors)
 - [Disclaimer](#disclaimer)
 - [Buy Me A Coffee](#buy-me-a-coffee)
 
