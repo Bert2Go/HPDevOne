@@ -199,10 +199,11 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 
 | Pros | Cons |
 | :------------ | :--------- |
-| Offers USB-C & USB-A Ports | Glossy Display contributes to eye strain |
+| Linux OS as a first class citizen | Glossy Display contributes to eye strain |
+| Offers USB-C & USB-A Ports | Display has bad viewing angles, not sure if this is done on purpose for privacy |
 | Can be charged through the USB-C Port | HP choose a 802.11ac (Wi-Fi 5) instead of a 802.11ax (Wi-Fi 6 or 6E) while not a big deal, it would help make this Laptop more future proof! |
 | The Webcam is decent for a 720p resolution | Webcam is 720p rather than a 1080p, while not a big deal, it is 2022 |
-| Excellent built in keyboard | Display has bad viewing angles, not sure if this is done on purpose for privacy |
+| Excellent built in keyboard |  |
 | Excellent trackpad |  | 
 | Memory can be upgraded to 64 GB |  |
 | No soldered Memory |  |
