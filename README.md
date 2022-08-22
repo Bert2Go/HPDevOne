@@ -44,6 +44,60 @@ Coupon Code: **HP89** (Last tested August 6th 2022) - *Credit: [bad_ignots](http
 
 ## Technical Specs
 
+| Hardsware | Detail | Additional Information |
+| :--- | :--- | :--- |
+| Operating System | Linux Pop!_OS 22.04 LTS ||
+| Processor Family | AMD Ryzen™ 7 processor ||
+| Processor | AMD Ryzen™ 7 PRO 5850U processor¹ <br> 8 CPU Cores, 16 Threads <br> 4.4GHz Max. Boost Clock³ <br> 1.9GHz Base Clock⁴ <br> L3 Cache 16MB | With integrated iGPU |
+| Available Graphics | Integrated: AMD Radeon™ Graphics (Support HW decode, DX12, HDMI 2.0 and HDCP 2.2) |  |
+| Display Size (diagonal) | 14" |  |
+| Display | 14" diagonal FHD display with HD Webcam (1920x1080) (1000 nits) | Display is Glossy |
+| Memory | 16 GB (2x8 GB) DDR4 3200 MT/s | Max memory is 64 GB ( 2x16 GB ) |
+| Memory Slots | 2 SODIMM⁵ ||
+| Internal Storage | 1 TB PCIe® 3x4 NVMe™ M.2 2280 SSD² | Max 4 TB |
+| Audio | Dual stereo speakers, 2 multi-array microphone |  |
+| Ports and Connectors | 2 SuperSpeed USB Type-C® 10Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4) <br> 2 SuperSpeed USB Type-A 5Gbps signaling rate (1 charging) <br> 1 headphone/microphone combo <br> 1 HDMI 2.0 <br> 1 AC power | HDMI cable sold separately |
+| Available Keyboards | Dual Point Backlit spill-resistant Premium Keyboard⁷ | Notebook keyboard IS backlit! <br> No NFC ⁠ ⁠No Fingerprint reader |
+| Available Pointing Devices | Glass clickpad with gesture support as default, Touchpad |  |
+| Sensors | Hall sensor |  |
+| Ambient Light Sensor | Ambient light sensor | Can be turned off through Pop!_OS |
+| Wireless Connectivity | Realtek RTL8822CE 802.11a/b/g/n/ac (2x2) Wi-Fi® and Bluetooth® 5 combo¹⁵ | 802.11ac (Wi-Fi 5) |
+| Camera | 720p HD camera |  |
+| Software | Pop!_OS with HP added features and support <br> LibreOffice Suite <br> Productivity Apps <br> Media Player <br> Application Store |  |
+| Software Support | HP Support integrated into Pop!_OS <br> HP Expert Technical Support¹⁶ |  |
+| Security Management | Full Disk Encryption |  |
+| Battery Type | HP Long Life 3-cell, 53 Wh Li-ion¹⁷ |  |
+| Power Supply | HP Smart 65 W External AC power adapter¹⁸ |  |
+| Color | Mineral Silver |  |
+| Dimensions | Imperial: 12.73 x 8.44 x 0.75 in <br> Metric: 32.34 x 21.46 x 1.91 cm |  |
+| Weight | 3.24 lb |  |
+| Energy Efficiency Compliance | ENERGY STAR® certified <br> EPEAT® registered where applicable. EPEAT ® registration varies by country. See [www.epeat.net](https://www.epeat.net/) for registration status by country. |  |
+| Sustainable Impact Specifications | 5% Ocean-bound plastic in speaker enclosure <br> 45% post-consumer recycled plastic¹⁹ <br> Low Halogen <br> Bulk packaging available <br> Outside box and corrugated cushions are 100% sustainably sourced and recyclable²⁰ <br> TCO 9.0 certified |  |
+| Warranty | HP Dev One 1 year of parts <br> 1 year of labor <br> no onsite coverage limited warranty <br> (1/1/0 warranty) | Standard one-year limited warranty covers repairs or replacement of parts that are deemed defective <br> Onsite service is not included |
+
+<sub>¹ Multicore is designed to improve the performance of certain software products. Not all customers or software applications will necessarily benefit from the use of this technology. Performance and clock frequency will vary depending on application workload and your hardware and software configurations. AMD’s numbering is not a measurement of clock speed.  
+² For storage drives, TB - 1 trillion bytes. Actual formatted capacity is less. Up to 4.7 GB is not user-accessible.  
+³ AMD Max Boost frequency performance varies depending on hardware, software, and overall system configuration.  
+⁴ Processor speed denotes maximum performance mode; processors will run at lower speeds in battery optimization mode.  
+⁵ Due to the non-industry standard nature of some third-party memory modules, we recommend HP branded memory to ensure compatibility. If you mix memory speeds, the system will perform at the lower memory speed.  
+⁶ Pop!_Shop requires internet access, some apps may require purchase.  
+⁷ Backlit keyboard is an optional feature.  
+⁸ Battery life tested by HP running text editing, web browsing with Google Chrome browser in full screen display, and local video at FHD (1080p) H264 24fps MP4 video playback with player audio set for 100% output and system speaker set for 16% volume, 150 nits brightness with Ambient Light Sensor disabled and entire system setup in ~70 degrees Fahrenheit room temperature condition. Battery life will vary depending on various factors including product model, configuration, loaded applications, features, use, wireless functionality, and power management settings. The maximum capacity of the battery will naturally decrease with time and usage.  
+⁹ Cover glass reduces the perceived brightness by approximately 20%.  
+¹⁰ Internet access and collaboration software are required and sold separately.  
+¹¹ Actual battery life will vary with use and environmental conditions, and will naturally decrease with time and usage.  
+¹² List of apps: SolidWorks, Windows Office, Sketchup, Adobe, AutoCAD, Tili-Click.  
+¹³ Battery life based on 5 day week, 8 hours per day. Actual battery life will vary with use and environmental conditions, and will naturally decrease with time and usage.  
+¹⁴ Tested on the glass less than 4mm thickness.  
+¹⁵ Wireless access point and internet service required and sold separately. Availability of public wireless access points limited. Wi-Fi 5 (802.11 AC) is backwards compatible with prior 802.11 specs.  
+¹⁶ Ticketing Support is only offered in the United States. Cross-border support is not offered. Support is available Monday to Saturday, 5am to 5pm Pacific Standard Time (Monday to Friday 8:30am - 5pm MST for order inquiry support). Sundays and holidays are non-operational hours and inquiries will be responded to as soon as possible on the next business day.  
+¹⁷ Actual battery Watt-hours (Wh) will vary from design capacity. Battery capacity will naturally decrease with shelf life, time, usage, environment, temperature, system configuration, loaded apps, features, power management settings, and other factors.  
+¹⁸ HP Fast Charge charges up to 50% within 30 minutes when the system is off or in standby mode. Power adapter with a minimum capacity of 65 watts is required. After charging has reached 50% capacity, charging will return to normal. Charging time may vary +/-10% due to System tolerance.  
+¹⁹ Recycled plastic content percentage is based on the definition set in the IEEE 1680.1-2018 EPEAT standard.  
+²⁰ 100% outer box packaging made from sustainably sourced, certified, and recycled fibers. Fiber cushions made from 100% recycled wood fiber and organic material. Any plastic cushions are made from > 90% recycled plastic.  
+²¹ Delivery within 24 hours applies to orders shipping to the continental United States. Additional shipping time is required for orders shipping outside of the continental US.*</sub>
+
+
 ## Upgrade Options
 
 ### Memory
@@ -141,7 +195,16 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 | Pros | Cons |
 | :------------ | :--------- |
 | Offers USB-C & USB-A Ports | Glossy Display contributes to eye strain |
-| Can be charged through the USB-C Port | |
+| Can be charged through the USB-C Port | HP choose a 802.11ac (Wi-Fi 5) instead of a 802.11ax (Wi-Fi 6 or 6E) while not a big deal, it would help make this Laptop more future proof! |
+| The Webcam is decent for a 720p resolution | Webcam is 720p rather than a 1080p, while not a big deal, it is 2022 |
+| Excellent built in keyboard | Display has bad viewing angles, not sure if this is done on purpose for privacy |
+| Excellent trackpad |  | 
+| Memory can be upgraded to 64 GB |  |
+| No soldered Memory |  |
+| Generous 1 TB SSD |  |
+| Display brightness up to 1000 Nits |  |
+| Upgradable memory and storage |  |
+
 
 ## Using Other Linux Distributions
 
