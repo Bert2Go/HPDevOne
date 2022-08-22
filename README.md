@@ -138,12 +138,17 @@ Where to buy: [Amazon](https://www.amazon.com/Inland-Platinum-Internal-Compatibl
 Monitors max resolution is 5120x1440p and max refresh rate is 120Hz. All resolutions are supported. In the settings it shows as 'Unknown 49"' with a refresh rate selection of 59.98Hz only, it should go up to 120Hz, it shows that on my Pop_OS! Linux desktop. This could be due to the HDMI cable limitations. I will check with other cables and also try the USB-C port using an adapter since the Monitor doesn't have a USB-C monitor input.
 
 ### Hubs
+
 - [DELL D6000 Universal USB-C/USB-A Dock](https://www.dell.com/support/home/en-us/product-support/product/dell-universal-dock-d6000/docs), [Spec Sheet (PDF)](https://www.delltechnologies.com/asset/en-us/products/electronics-and-accessories/technical-support/Dell_Universal_Dock_D6000_Spec_Sheet.pdf)  
 On the back it has 1x Power Input, 1x HDMI, 2x DisplayLink, 1x Ethernet, 2x USB 3.0, 1x Speaker Out and in the front it has 1x USB 3.0, 1x USB 3.0/BC1.2, 1x USB-C/BC1.2, 1x Audio Combo. The cable to the computer is a USB-C along with an adapter for USB-A!  
-**Important**: If you DO NOT already have the display link drivers installed for Pop_OS!, you need to install them in order to use the displayLink ports in the back. [Download the displayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
 *Note: A nice to have is if you use the USB-C port to connect to the HP Dev One, the dock will charge the HP Dev One.  
 There is also a version D6000S, which DOES NOT have any audio jacks! Info by [raldara on Reddit](https://www.reddit.com/r/Dell/comments/vn617z/comment/ie5bh28/?utm_source=share&utm_medium=web2x&context=3)*  
 Where to buy: newegg [New](https://www.newegg.com/black-dell-d6000/p/1DN-0002-000H2)/[Refurbished](https://www.newegg.com/dell-d6000-black/p/1DN-0002-00581), [Amazon](https://www.amazon.com/Dell-452-BCYT-D6000-Universal-Black/dp/B071YTQBXM)
+
+- [Pluggable UD-3900C4 USB-C Quad HDMI Docking Station](https://plugable.com/products/ud-3900c4), [Spec Sheet PDF](https://m.media-amazon.com/images/I/61dUzlBY9dL.pdf)  
+Where to buy: [new egg](https://www.newegg.com/p/pl?d=9SIA2XBJC65504), [Walmart](https://walmart.com/ip/4VPQ6TK0RRHS), [Insight](https://www.insight.com/en_US/shop/product/UD-3900C4/PLUGABLE%20TECHNOLOGIES/UD-3900C4/Plugable-UD3900C4--docking-station--USBC--14slot--4-x-HDMI--GigE/), [Amazon](https://www.amazon.com/dp/B09TSQYGKS)
+
+**Important Note**: Some Hubs offer displayLink monitor connectors. If you DO NOT already have the display link drivers installed for Pop_OS!, you need to install them in order to use the displayLink ports of your hub. [Download the displayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
 
 ### Chargers
 
