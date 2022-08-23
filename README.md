@@ -3,6 +3,9 @@
 
 - [Coupon Code](#coupon-code)
 - [Shipping Information](#shipping-information)
+- [First Steps After Installing POP!_OS](#first-steps-after-installing-pop_os)
+  - [Changing DNS Server Settings](#changing-dns-server-settings)
+    - [Cloudflare Public DNS Server](#cloudflare-public-dns-server)
 - [Technical Specs](#technical-specs)
 - [Upgrade Options](#upgrade-options)
   - [Memory](#memory)
@@ -41,6 +44,37 @@ Coupon Code: **HP89** (Last tested August 6th 2022) - *Credit: [bad_ignots](http
 
 - **FedEx** delivered my laptop. Delivery time is **1-2 business days**.
 - People are reporting that HP doesn't ship this laptop to Canada. That said it appears HP ships this laptop only within the USA at this point of time.
+
+## First Steps after installing POP!_OS
+
+### Changing DNS Server Settings
+
+DNS servers translate the friendly domain name you enter into a browser (like bert2go.com) into the public IP address that's needed for your device to actually communicate with that site.
+
+Your ISP automatically assigns DNS servers when your smartphone or router connects to the internet, but you don't have to use those. For a lot of reasons, you might want to try alternative ones, privacy and speed are two big wins you could see from switching.
+
+#### Cloudflare Public DNS Server
+
+"[Cloudflare](https://www.cloudflare.com/) will **never log your IP address**, **never sell your data**, and **never use your data to target ads**".
+
+**Steps:**
+
+1. Open Settings
+2. Select **Wi-Fi**
+3. Click the **Cog Icon** for the Wi-Fi Connection you want to use
+4. Click on the **IPv4 Tab**
+5. Disable the **Automatic toggle for DNS**
+6. In the **input field below DNS** enter:  
+    ```
+    1.1.1.1, 1.0.0.1
+    ```
+7. Click on the **IPv6 Tab**
+8. Disable the **Automatic toggle for DNS**
+9. In the **input field  below DNS** enter:
+    ```
+    2606:4700:4700::1111, 2606:4700:4700::1001
+    ```
+10. Click the **Apply Button** to save yoiur changes, and you are Done!
 
 ## Technical Specs
 
