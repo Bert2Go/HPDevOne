@@ -31,6 +31,7 @@
 - [Useful Links](#useful-links)
 - [Contributors](#contributors)
 - [Disclaimer](#disclaimer)
+- [Connect/Follow Me](#connectfollow-me)
 - [Buy Me A Coffee](#buy-me-a-coffee)
 
 ## Coupon Code
@@ -298,6 +299,12 @@ Thank you to all contributors to the HP Dev One Guide. I really appreciate your 
 Pull request contributors:  
 
 <img src="https://avatars.githubusercontent.com/u/51793?s=60&v=4" alt="fkumro" width="32" height="32" /><img src="https://avatars.githubusercontent.com/u/87946040?s=60&v=4" alt="woltersdylan" width="32" height="32" />
+
+## Connect/Follow Me
+
+- [reddit](https://www.reddit.com/user/Bert2Go)
+- [GitHub](https://github.com/Bert2Go)
+- [twitter](https://twitter.com/Bert_2_Go)
 
 ## Disclaimer
 * **This is a work in progress, any sharing of this guide and/or pull request is appreciated. Feel free to contact me directly if needed.**
