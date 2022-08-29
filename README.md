@@ -87,7 +87,7 @@ Your ISP automatically assigns DNS servers when your smartphone or router connec
 | Available Graphics | Integrated: AMD Radeon™ Graphics (Support HW decode, DX12, HDMI 2.0 and HDCP 2.2) |  |
 | Display Size (diagonal) | 14" |  |
 | Display | 14" diagonal FHD display with HD Webcam (1920x1080) (1000 nits) | Display is Glossy |
-| Memory | 16 GB (2x8 GB) DDR4 3200 MT/s | Max memory is 64 GB ( 2x16 GB ) |
+| Memory | 16 GB (2x8 GB) DDR4 3200 MT/s | Max memory is 64 GB ( 2x32 GB ) |
 | Memory Slots | 2 SODIMM⁵ ||
 | Internal Storage | 1 TB PCIe® 3x4 NVMe™ M.2 2280 SSD² | Max 4 TB |
 | Audio | Dual stereo speakers, 2 multi-array microphone |  |
