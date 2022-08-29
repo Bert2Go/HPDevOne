@@ -23,7 +23,7 @@
   - [Series of two Videos about about the HP Dev One](#series-of-two-videos-about-about-the-hp-dev-one)
 - [Pros and Cons](#pros-and-cons)
 - [Using Other Linux Distributions](#using-other-linux-distributions)
-  - [Archi Linux](#arch-linux)
+  - [Arch Linux](#arch-linux)
 - [Support and Connect Information](#support-and-connect-information)
   - [Known Issues](#known-issues)
   - [HP](#hp)
