@@ -258,6 +258,15 @@ The official documentation for [System 76 firmware upgrade](https://support.syst
 	- Once installed, execute `fwupdmgr refresh --force` to identify your device and relevant updates with the service.
 	- From here, you can use the GTK-based GUI in Firmware Manager to update. If you have an issue with checksum authentication, run the commend `fwupdmgr get-updates` followed by `fwupdmgr install --force` to force the upgrade.
 
+### NixOS
+
+Since the machine supports the [Linux Vendor Firmware Service](https://fwupd.org) (LVFS), you can use
+```
+  services.fwupd.enable = true; # for firmware updates 
+  services.udisks2.enable = true; # needed for fwupd
+```
+to enable firmware updates on [NixOS](https://nixos.org/).  Then download the metadata from LVFS with `fwupdmgr refresh` and install updates with `fwupdmgr update`.
+
 ## Support and Connect Information
 
 ### Known Issues
