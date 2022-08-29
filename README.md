@@ -271,7 +271,7 @@ to enable firmware updates on [NixOS](https://nixos.org/).  Then download the me
 
 ### Known Issues
 
-- On boot, the bios may show the `90B` System Fan Error. This is a known bug that was patched with a later firmware/bios update. If you experience this issue, update the firmware.
+- On boot, the bios may show the `90B` System Fan Error. This is a known bug that was patched with a later firmware/bios update. If you experience this issue, update the firmware to version F.05 (or later).
 
 ### HP 
 
