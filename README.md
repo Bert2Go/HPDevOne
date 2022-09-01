@@ -23,7 +23,7 @@
   - [Series of two Videos about about the HP Dev One](#series-of-two-videos-about-about-the-hp-dev-one)
 - [Pros and Cons](#pros-and-cons)
 - [Using Other Linux Distributions](#using-other-linux-distributions)
-  - [Archi Linux](#arch-linux)
+  - [Arch Linux](#arch-linux)
 - [Support and Connect Information](#support-and-connect-information)
   - [Known Issues](#known-issues)
   - [HP](#hp)
@@ -87,7 +87,7 @@ Your ISP automatically assigns DNS servers when your smartphone or router connec
 | Available Graphics | Integrated: AMD Radeon™ Graphics (Support HW decode, DX12, HDMI 2.0 and HDCP 2.2) |  |
 | Display Size (diagonal) | 14" |  |
 | Display | 14" diagonal FHD display with HD Webcam (1920x1080) (1000 nits) | Display is Glossy |
-| Memory | 16 GB (2x8 GB) DDR4 3200 MT/s | Max memory is 64 GB ( 2x16 GB ) |
+| Memory | 16 GB (2x8 GB) DDR4 3200 MT/s | Max memory is 64 GB ( 2x32 GB ) |
 | Memory Slots | 2 SODIMM⁵ ||
 | Internal Storage | 1 TB PCIe® 3x4 NVMe™ M.2 2280 SSD² | Max 4 TB |
 | Audio | Dual stereo speakers, 2 multi-array microphone |  |
@@ -258,11 +258,20 @@ The official documentation for [System 76 firmware upgrade](https://support.syst
 	- Once installed, execute `fwupdmgr refresh --force` to identify your device and relevant updates with the service.
 	- From here, you can use the GTK-based GUI in Firmware Manager to update. If you have an issue with checksum authentication, run the commend `fwupdmgr get-updates` followed by `fwupdmgr install --force` to force the upgrade.
 
+### NixOS
+
+Since the machine supports the [Linux Vendor Firmware Service](https://fwupd.org) (LVFS), you can use
+```
+  services.fwupd.enable = true; # for firmware updates 
+  services.udisks2.enable = true; # needed for fwupd
+```
+to enable firmware updates on [NixOS](https://nixos.org/).  Then download the metadata from LVFS with `fwupdmgr refresh` and install updates with `fwupdmgr update`.
+
 ## Support and Connect Information
 
 ### Known Issues
 
-- On boot, the bios may show the `90B` System Fan Error. This is a known bug that was patched with a later firmware/bios update. If you experience this issue, update the firmware.
+- On boot, the bios may show the `90B` System Fan Error. This is a known bug that was patched with a later firmware/bios update. If you experience this issue, update the firmware to version F.05 (or later).
 
 ### HP 
 
