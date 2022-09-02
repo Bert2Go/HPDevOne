@@ -25,6 +25,8 @@
 - [Using Other Linux Distributions](#using-other-linux-distributions)
   - [Arch Linux](#arch-linux)
   - [NixOS](#nixos)
+- [Performance](#Performance)
+  - [Geekbench 5](#geekbench-5)
 - [Support and Connect Information](#support-and-connect-information)
   - [Known Issues](#known-issues)
   - [HP](#hp)
@@ -272,6 +274,19 @@ Since the machine supports the [Linux Vendor Firmware Service](https://fwupd.org
   services.udisks2.enable = true; # needed for fwupd
 ```
 to enable firmware updates on [NixOS](https://nixos.org/).  Then download the metadata from LVFS with `fwupdmgr refresh` and install updates with `fwupdmgr update`.
+
+## Performance
+
+### Geekbench 5
+
+#### Bert2Go Test Scores
+| ID | Name | Sincle-core Score | Multi-Core Score |
+| :-- | :-- | :-: | :-: |
+| [17029514](https://browser.geekbench.com/v5/cpu/17029514) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1562** | **7822** |
+| [17029378](https://browser.geekbench.com/v5/cpu/17029378) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1561** | **7815** |
+| [17029213](https://browser.geekbench.com/v5/cpu/17029213) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1547** | **7664** |
+
+*Note: I did a total of three tests. Power Setting for all tests was set to `High Performance`. No tweaking/overclocking has been performed.*
 
 ## Support and Connect Information
 
