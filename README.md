@@ -313,9 +313,7 @@ Thank you to all contributors to the HP Dev One Guide. I really appreciate your 
 
 Pull request contributors:  
 
-<img src="https://avatars.githubusercontent.com/u/51793?s=60&v=4" alt="Fank Kumro Jr" width="32" height="32" />
-<img src="https://avatars.githubusercontent.com/u/87946040?s=60&v=4" alt="woltersdylan" width="32" height="32" />
-<img src="https://avatars.githubusercontent.com/u/148352?s=60&v=4" alt="Jim Fowler" width="32" height="32" />
+<img src="https://avatars.githubusercontent.com/u/51793?s=60&v=4" alt="Fank Kumro Jr" width="32" height="32" /><img src="https://avatars.githubusercontent.com/u/87946040?s=60&v=4" alt="woltersdylan" width="32" height="32" /><img src="https://avatars.githubusercontent.com/u/148352?s=60&v=4" alt="Jim Fowler" width="32" height="32" />
 
 ## Connect/Follow Me
 
