@@ -24,6 +24,7 @@
 - [Pros and Cons](#pros-and-cons)
 - [Using Other Linux Distributions](#using-other-linux-distributions)
   - [Arch Linux](#arch-linux)
+  - [NixOS](#nixos)
 - [Support and Connect Information](#support-and-connect-information)
   - [Known Issues](#known-issues)
   - [HP](#hp)
@@ -254,11 +255,16 @@ It is possible to use any linux distribution in place of Pop OS. The only downsi
 The official documentation for [System 76 firmware upgrade](https://support.system76.com/articles/system-firmware/) suggests to use a live-usb of Pop OS to create an environment for updating the firmware.
 
 ### Arch Linux
+
+#### Firmware
+
 - For Arch Linux, you can install the `firmware-manager` and `system76-firmware` from the [AUR](https://aur.archlinux.org/).
 	- Once installed, execute `fwupdmgr refresh --force` to identify your device and relevant updates with the service.
 	- From here, you can use the GTK-based GUI in Firmware Manager to update. If you have an issue with checksum authentication, run the commend `fwupdmgr get-updates` followed by `fwupdmgr install --force` to force the upgrade.
 
 ### NixOS
+
+#### Firmware
 
 Since the machine supports the [Linux Vendor Firmware Service](https://fwupd.org) (LVFS), you can use
 ```
