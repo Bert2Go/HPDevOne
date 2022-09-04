@@ -39,10 +39,12 @@
 
 ## Coupon Code
 
-A currently available Coupon Code takes **$89 off**!  
+<strike>A currently available Coupon Code takes **$89 off**!  
 Coupon Code: **HP89** (Last tested August 6th 2022) - *Credit: [bad_ignots](https://www.reddit.com/r/linuxhardware/comments/vujx95/hp_dev_one_coupon/?utm_source=share&utm_medium=web2x&context=3)*
 
-***Note:*** *I am not sure when this Coupon Code is going to expire.*
+***Note:*** *I am not sure when this Coupon Code is going to expire.*</strike>
+
+**Unfortunately** at this point the **Coupon** seems to have **expired**. Checking into it I cannot even find an option to add a Coupon Code during checkout. *credit: [davidskeck](https://github.com/Bert2Go/HPDevOne/issues/4)*
 
 ## Shipping Information
 
