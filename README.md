@@ -1,4 +1,5 @@
 # HP Dev One Guide
+
 ***Work in progress, feel free to contribute.***
 
 - [Coupon Code](#coupon-code)
@@ -7,6 +8,9 @@
   - [Changing DNS Server Settings](#changing-dns-server-settings)
     - [Cloudflare Public DNS Server](#cloudflare-public-dns-server)
 - [Technical Specs](#technical-specs)
+- [BIOS Settings](#bios-settings)
+  - [Configuration](#configuration)
+    - [Adaptive Battery Optimizer](#adaptive-battery-optimizer)  
 - [Upgrade Options](#upgrade-options)
   - [Memory](#memory)
     - [32GB Kits](#32gb-kit)
@@ -137,12 +141,29 @@ Your ISP automatically assigns DNS servers when your smartphone or router connec
 ²⁰ 100% outer box packaging made from sustainably sourced, certified, and recycled fibers. Fiber cushions made from 100% recycled wood fiber and organic material. Any plastic cushions are made from > 90% recycled plastic.  
 ²¹ Delivery within 24 hours applies to orders shipping to the continental United States. Additional shipping time is required for orders shipping outside of the continental US.*</sub>
 
+## BIOS Settings
+
+You can enter the BIOS using the following methods right after turning on the HP Dev One:
+
+- Repeatedly push the `ESC` until you are presented with a text menu from which you can select the BIOS option to enter the BIOS
+- Repeatedly puch the `F10` button until the BIOS shows up.
+
+*Note: If the computer asks for your partition/drive password (if you set it up) or shows your login screen, then you missed the window to trigger the BIOS using the above mentioned methods.*
+
+### Configuration
+
+- #### Adaptive Battery Optimizer  
+  🟥 Does anybody know what this really does? It is supposed to be a technology developed by HP to prolong the battery life of a laptop. There is no option to set the battery percentage limit/s within the BIOS.
+
+- #### Keyboard Backlight Timeout  
+
+  This is where you control to duration of the keyboard backlight before it turns off. There are quite a few people asking if it is possible to keep the keyboard backlight on all the time, and the answer is yes! Simply select 'never' from the the Keyboard Backlight Timeout options available.
 
 ## Upgrade Options
 
 ### Memory
 
-#### 32GB Kit
+- #### 32GB Kit
 
   - **Teamgroup** Elite DDR4 **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 Unbuffered Non-ECC 1.2V SODIMM 260-Pin  
 Where to buy: [newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N82E16820331504), [Walmart](https://www.walmart.com/ip/Team-TED432G3200C22DC-S01-Elite-2-x-16GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-Laptop-Memory-Model/252223474), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08T17RQ87?th=1)
@@ -153,7 +174,7 @@ Where to buy: [newegg](https://www.newegg.com/corsair-32gb-260-pin-ddr4-so-dimm/
   - **G.SKILL** Ripjaws Series DDR4 (Model F4-3200C22D-32GRS) **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin
 Where to buy: [newegg](https://www.newegg.com/g-skill-32gb-260-pin-ddr4-so-dimm/p/N82E16820374024)
 
-#### 64GB Kit
+- #### 64GB Kit
 
   - **Teamgroup** Elite DDR4 **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 Unbuffered Non-ECC 1.2V SODIMM 260-Pin  
 Where to buy: [newegg](https://www.newegg.com/team-64gb-260-pin-ddr4-so-dimm/p/N82E16820331505), [Walmart](https://www.walmart.com/ip/Team-Group-Inc-TED464G3200C22DC-S01-Nbm-2-32g-team-Ted464g3200c22dc-s01/844902433), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08TQBY2NR)
@@ -168,12 +189,13 @@ Where to buy: [newegg](https://www.newegg.com/g-skill-64gb-260-pin-ddr4-so-dimm/
 
 ### Solid State Drives
 
-#### 4TB
+- #### 4TB  
 
-- **Inland** Platinum 4TB SSD M.2 2280 NVMe PCIe Gen 3.0 x 4 3D NAND Internal Solid State Drive, PCIe Express 3.1 and NVMe 1.3 Compatible - *Credit [brademerica](https://www.reddit.com/r/pop_os/comments/wbk9pm/comment/ii7ck08/?utm_source=share&utm_medium=web2x&context=3)*  
+  - **Inland** Platinum 4TB SSD M.2 2280 NVMe PCIe Gen 3.0 x 4 3D NAND Internal Solid State Drive, PCIe Express 3.1 and NVMe 1.3 Compatible - *Credit [brademerica](https://www.reddit.com/r/pop_os/comments/wbk9pm/comment/ii7ck08/?utm_source=share&utm_medium=web2x&context=3)*  
 Where to buy: [Amazon](https://www.amazon.com/Inland-Platinum-Internal-Compatible-Solutions/dp/B08FT8LFNM)
 
 ### Monitors
+
 - SAMSUNG 49-inch Odyssey G9 Gaming Monitor:  
 Monitors max resolution is 5120x1440p and max refresh rate is 120Hz. All resolutions are supported. In the settings it shows as 'Unknown 49"' with a refresh rate selection of 59.98Hz only, it should go up to 120Hz, it shows that on my Pop_OS! Linux desktop. This could be due to the HDMI cable limitations. I will check with other cables and also try the USB-C port using an adapter since the Monitor doesn't have a USB-C monitor input.
 
@@ -235,7 +257,7 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 
 ## Pros and Cons
 
-**🟥 IN PROGRESS 🟥**
+**🟥 IN PROGRESS**
 
 | Pros | Cons |
 | :------------ | :--------- |
@@ -243,6 +265,7 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 | Offers USB-C & USB-A Ports | Display has bad viewing angles, not sure if this is done on purpose for privacy |
 | Can be charged through the USB-C Port | HP choose a 802.11ac (Wi-Fi 5) instead of a 802.11ax (Wi-Fi 6 or 6E) while not a big deal, it would help make this Laptop more future proof! |
 | The Webcam is decent for a 720p resolution | Webcam is 720p rather than a 1080p, while not a big deal, it is 2022 |
+| The Webcam has a sliding cover, that can fully cover it  |  |
 | Excellent built in keyboard |  |
 | Excellent trackpad |  | 
 | Memory can be upgraded to 64 GB |  |
@@ -260,35 +283,36 @@ The official documentation for [System 76 firmware upgrade](https://support.syst
 
 ### Arch Linux
 
-#### Firmware
+- #### Firmware  
 
-- For Arch Linux, you can install the `firmware-manager` and `system76-firmware` from the [AUR](https://aur.archlinux.org/).
-	- Once installed, execute `fwupdmgr refresh --force` to identify your device and relevant updates with the service.
-	- From here, you can use the GTK-based GUI in Firmware Manager to update. If you have an issue with checksum authentication, run the commend `fwupdmgr get-updates` followed by `fwupdmgr install --force` to force the upgrade.
+  For Arch Linux, you can install the `firmware-manager` and `system76-firmware` from the [AUR](https://aur.archlinux.org/).
+    - Once installed, execute `fwupdmgr refresh --force` to identify your device and relevant updates with the service.
+    - From here, you can use the GTK-based GUI in Firmware Manager to update. If you have an issue with checksum authentication, run the commend `fwupdmgr get-updates` followed by `fwupdmgr install --force` to force the upgrade.
 
 ### NixOS
 
-#### Firmware
+- #### Firmware  
 
-Since the machine supports the [Linux Vendor Firmware Service](https://fwupd.org) (LVFS), you can use
-```
-  services.fwupd.enable = true; # for firmware updates 
-  services.udisks2.enable = true; # needed for fwupd
-```
-to enable firmware updates on [NixOS](https://nixos.org/).  Then download the metadata from LVFS with `fwupdmgr refresh` and install updates with `fwupdmgr update`.
+  Since the machine supports the [Linux Vendor Firmware Service](https://fwupd.org) (LVFS), you can use
+  ```
+    services.fwupd.enable = true; # for firmware updates 
+    services.udisks2.enable = true; # needed for fwupd
+  ```
+  to enable firmware updates on [NixOS](https://nixos.org/).  Then download the metadata from LVFS with `fwupdmgr refresh` and install updates with `fwupdmgr update`.
 
 ## Performance
 
 ### Geekbench 5
 
-#### Bert2Go Test Scores
-| ID | Name | Sincle-core Score | Multi-Core Score |
-| :-- | :-- | :-: | :-: |
-| [17029514](https://browser.geekbench.com/v5/cpu/17029514) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1562** | **7822** |
-| [17029378](https://browser.geekbench.com/v5/cpu/17029378) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1561** | **7815** |
-| [17029213](https://browser.geekbench.com/v5/cpu/17029213) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1547** | **7664** |
+- #### Bert2Go Test Scores  
 
-*Note: I did a total of three tests. Power Setting for all tests was set to `High Performance`. No tweaking/overclocking has been performed.*
+  | ID | Name | Sincle-core Score | Multi-Core Score |
+  | :-- | :-- | :-: | :-: |
+  | [17029514](https://browser.geekbench.com/v5/cpu/17029514) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1562** | **7822** |
+  | [17029378](https://browser.geekbench.com/v5/cpu/17029378) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1561** | **7815** |
+  | [17029213](https://browser.geekbench.com/v5/cpu/17029213) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1547** | **7664** |
+
+*Note: I did a total of three tests. POP!_OS Power Setting for all tests was set to `High Performance` and `Adaptive Battery Optimizer` in the BIOS was set to `Enabled`. No tweaking/overclocking has been performed.*
 
 ## Support and Connect Information
 
