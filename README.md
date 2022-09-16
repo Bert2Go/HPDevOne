@@ -21,6 +21,8 @@
   - [Monitors](#monitors)
   - [Hubs](#hubs)
   - [Chargers](#chargers)
+  - [Batteries](#batteries)
+  - [Adapters](#adapters)
 - [Function Keys Explained](#function-keys-explained)
 - [Videos](#videos)
   - [Removing and Replacing Parts](#removing-and-replacing-parts)
@@ -43,12 +45,11 @@
 
 ## Coupon Code
 
-<strike>A currently available Coupon Code takes **$89 off**!  
-Coupon Code: **HP89** (Last tested August 6th 2022) - *Credit: [bad_ignots](https://www.reddit.com/r/linuxhardware/comments/vujx95/hp_dev_one_coupon/?utm_source=share&utm_medium=web2x&context=3)*
+A new Coupon Code is available for a limited time!
+
+Use Code ` CODE89 ` at checkout to get $89 off !
 
 ***Note:*** *I am not sure when this Coupon Code is going to expire.*</strike>
-
-**Unfortunately** at this point the **Coupon** seems to have **expired**. Checking into it I cannot even find an option to add a Coupon Code during checkout. *credit: [davidskeck](https://github.com/Bert2Go/HPDevOne/issues/4)*
 
 ## Shipping Information
 
@@ -219,6 +220,14 @@ This charge is affordable and charges the HP Dev One through it's USB-C port.
 Where to buy: [Amazon](https://www.amazon.com/gp/product/B09B78WPXK)  
 
 *Note: Additional chargers are great when you travel between different locations, like home and office. Have a charger for each location. Always the worse when you get where you need to go and the charge was forgotten :D*
+
+### Batteries
+
+Coming Soon !
+
+### Adapters
+
+Coming Soon !
 
 ## Function Keys Explained
 HP didn't include any explanation about the FN Keys. So this is where this section comes in handy, it will add a quick description to the FN Keys.
