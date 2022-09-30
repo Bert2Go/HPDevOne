@@ -49,7 +49,7 @@ A new Coupon Code is available for a limited time!
 
 Use Code ` CODE89 ` at checkout to get $89 off !
 
-***Note:*** *I am not sure when this Coupon Code is going to expire.*</strike>
+***Note:*** *This coupon expires on October 15, 2022.*
 
 ## Shipping Information
 
