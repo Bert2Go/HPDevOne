@@ -4,7 +4,7 @@
 
 - [Coupon Code](#coupon-code)
 - [Shipping Information](#shipping-information)
-- [First Steps After Installing POP!_OS](#first-steps-after-installing-pop_os)
+- [First Steps After Installing Pop!_OS](#first-steps-after-installing-pop_os)
   - [Changing DNS Server Settings](#changing-dns-server-settings)
     - [Cloudflare Public DNS Server](#cloudflare-public-dns-server)
 - [Technical Specs](#technical-specs)
@@ -56,7 +56,7 @@ Use Code ` CODE89 ` at checkout to get $89 off !
 - **FedEx** delivered my laptop. Delivery time is **1-2 business days**.
 - People are reporting that HP doesn't ship this laptop to Canada. That said it appears HP ships this laptop only within the USA at this point of time.
 
-## First Steps after installing POP!_OS
+## First Steps after installing Pop!_OS
 
 ### Changing DNS Server Settings
 
@@ -93,7 +93,7 @@ Your ISP automatically assigns DNS servers when your smartphone or router connec
 | :--- | :--- | :--- |
 | Operating System | Linux Pop!_OS 22.04 LTS ||
 | Processor Family | AMD Ryzen™ 7 processor ||
-| Processor | AMD Ryzen™ 7 PRO 5850U processor¹ <br> 8 CPU Cores, 16 Threads <br> 4.4GHz Max. Boost Clock³ <br> 1.9GHz Base Clock⁴ <br> L3 Cache 16MB | With integrated iGPU |
+| Processor | AMD Ryzen™ 7 PRO 5850U processor¹ <br> 8 CPU Cores, 16 Threads <br> 4.4GHz Max. Boost Clock³ <br> 1.9GHz Base Clock⁴ <br> L3 Cache 16MB | With integrated GPU |
 | Available Graphics | Integrated: AMD Radeon™ Graphics (Support HW decode, DX12, HDMI 2.0 and HDCP 2.2) |  |
 | Display Size (diagonal) | 14" |  |
 | Display | 14" diagonal FHD display with HD Webcam (1920x1080) (1000 nits) | Display is Glossy |
@@ -102,7 +102,7 @@ Your ISP automatically assigns DNS servers when your smartphone or router connec
 | Internal Storage | 1 TB PCIe® 3x4 NVMe™ M.2 2280 SSD² | Max 4 TB |
 | Audio | Dual stereo speakers, 2 multi-array microphone |  |
 | Ports and Connectors | 2 SuperSpeed USB Type-C® 10Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4) <br> 2 SuperSpeed USB Type-A 5Gbps signaling rate (1 charging) <br> 1 headphone/microphone combo <br> 1 HDMI 2.0 <br> 1 AC power | HDMI cable sold separately |
-| Available Keyboards | Dual Point Backlit spill-resistant Premium Keyboard⁷ | Notebook keyboard IS backlit! <br> No NFC ⁠ ⁠No Fingerprint reader |
+| Available Keyboards | Dual Point Backlit spill-resistant Premium Keyboard⁷ | Notebook keyboard IS backlit! <br> No NFC, no Fingerprint reader |
 | Available Pointing Devices | Glass clickpad with gesture support as default, Touchpad |  |
 | Sensors | Hall sensor |  |
 | Ambient Light Sensor | Ambient light sensor | Can be turned off through Pop!_OS |
@@ -147,9 +147,9 @@ Your ISP automatically assigns DNS servers when your smartphone or router connec
 You can enter the BIOS using the following methods right after turning on the HP Dev One:
 
 - Repeatedly push the `ESC` until you are presented with a text menu from which you can select the BIOS option to enter the BIOS
-- Repeatedly puch the `F10` button until the BIOS shows up.
+- Repeatedly push the `F10` button until the BIOS shows up.
 
-*Note: If the computer asks for your partition/drive password (if you set it up) or shows your login screen, then you missed the window to trigger the BIOS using the above mentioned methods.*
+*Note: If the computer asks for your partition/drive password (if you set it up) or shows your login screen, then you missed the window to trigger the BIOS using the methods mentioned above.*
 
 ### Configuration
 
@@ -167,21 +167,21 @@ You can enter the BIOS using the following methods right after turning on the HP
 - #### 32GB Kit
 
   - **Teamgroup** Elite DDR4 **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 Unbuffered Non-ECC 1.2V SODIMM 260-Pin  
-Where to buy: [newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N82E16820331504), [Walmart](https://www.walmart.com/ip/Team-TED432G3200C22DC-S01-Elite-2-x-16GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-Laptop-Memory-Model/252223474), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08T17RQ87?th=1)
+Where to buy: [Newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N82E16820331504), [Walmart](https://www.walmart.com/ip/Team-TED432G3200C22DC-S01-Elite-2-x-16GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-Laptop-Memory-Model/252223474), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08T17RQ87)
 
   - **Corsair** Vengeance Performance DDR4 **32GB kit** (2x16GB) 3200MHz PC4-25600 CL22 Non-ECC 1.2V SO-DIMM 260-Pin  
-Where to buy: [newegg](https://www.newegg.com/corsair-32gb-260-pin-ddr4-so-dimm/p/N82E16820236681), [Walmart](https://www.walmart.com/ip/Corsair-CMSX32GX4M2A3200C22-32GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-MHz-Laptop-Memory-Module/372409453), [Amazon](https://www.amazon.com/gp/product/B08GSTF5NJ)
+Where to buy: [Newegg](https://www.newegg.com/corsair-32gb-260-pin-ddr4-so-dimm/p/N82E16820236681), [Walmart](https://www.walmart.com/ip/Corsair-CMSX32GX4M2A3200C22-32GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-MHz-Laptop-Memory-Module/372409453), [Amazon](https://www.amazon.com/gp/product/B08GSTF5NJ)
 
   - **G.SKILL** Ripjaws Series DDR4 (Model F4-3200C22D-32GRS) **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin
-Where to buy: [newegg](https://www.newegg.com/g-skill-32gb-260-pin-ddr4-so-dimm/p/N82E16820374024)
+Where to buy: [Newegg](https://www.newegg.com/g-skill-32gb-260-pin-ddr4-so-dimm/p/N82E16820374024)
 
 - #### 64GB Kit
 
   - **Teamgroup** Elite DDR4 **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 Unbuffered Non-ECC 1.2V SODIMM 260-Pin  
-Where to buy: [newegg](https://www.newegg.com/team-64gb-260-pin-ddr4-so-dimm/p/N82E16820331505), [Walmart](https://www.walmart.com/ip/Team-Group-Inc-TED464G3200C22DC-S01-Nbm-2-32g-team-Ted464g3200c22dc-s01/844902433), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08TQBY2NR)
+Where to buy: [Newegg](https://www.newegg.com/team-64gb-260-pin-ddr4-so-dimm/p/N82E16820331505), [Walmart](https://www.walmart.com/ip/Team-Group-Inc-TED464G3200C22DC-S01-Nbm-2-32g-team-Ted464g3200c22dc-s01/844902433), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08TQBY2NR)
 
   - **Corsair** Vengeance Performance DDR4 **64GB kit** (2x32GB) 3200MHz PC4-25600 CL22 Non-ECC 1.2V SO-DIMM 260-Pin  
-Where to buy: [newegg](https://www.newegg.com/corsair-64gb-260-pin-ddr4-so-dimm/p/N82E16820236807), [Amazon](https://www.amazon.com/Vengeance-Performance-3200MHz-Unbuffered-notebooks/dp/B09DTG3BD7)
+Where to buy: [Newegg](https://www.newegg.com/corsair-64gb-260-pin-ddr4-so-dimm/p/N82E16820236807), [Amazon](https://www.amazon.com/Vengeance-Performance-3200MHz-Unbuffered-notebooks/dp/B09DTG3BD7)
 
   - **G.SKILL** Ripjaws Series DDR4 (Model F4-3200C22D-64GRS) **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin
 Where to buy: [newegg](https://www.newegg.com/g-skill-64gb-260-pin-ddr4-so-dimm/p/N82E16820374025) 
@@ -206,7 +206,7 @@ Monitors max resolution is 5120x1440p and max refresh rate is 120Hz. All resolut
 On the back it has 1x Power Input, 1x HDMI, 2x DisplayLink, 1x Ethernet, 2x USB 3.0, 1x Speaker Out and in the front it has 1x USB 3.0, 1x USB 3.0/BC1.2, 1x USB-C/BC1.2, 1x Audio Combo. The cable to the computer is a USB-C along with an adapter for USB-A!  
 *Note: A nice to have is if you use the USB-C port to connect to the HP Dev One, the dock will charge the HP Dev One.  
 There is also a version D6000S, which DOES NOT have any audio jacks! Info by [raldara on Reddit](https://www.reddit.com/r/Dell/comments/vn617z/comment/ie5bh28/?utm_source=share&utm_medium=web2x&context=3)*  
-Where to buy: newegg [New](https://www.newegg.com/black-dell-d6000/p/1DN-0002-000H2)/[Refurbished](https://www.newegg.com/dell-d6000-black/p/1DN-0002-00581), [Amazon](https://www.amazon.com/Dell-452-BCYT-D6000-Universal-Black/dp/B071YTQBXM)
+Where to buy: Newegg [New](https://www.newegg.com/black-dell-d6000/p/1DN-0002-000H2)/[Refurbished](https://www.newegg.com/dell-d6000-black/p/1DN-0002-00581), [Amazon](https://www.amazon.com/Dell-452-BCYT-D6000-Universal-Black/dp/B071YTQBXM)
 
 - [Pluggable UD-3900C4 USB-C Quad HDMI Docking Station](https://plugable.com/products/ud-3900c4), [Spec Sheet PDF](https://m.media-amazon.com/images/I/61dUzlBY9dL.pdf)  
 Where to buy: [new egg](https://www.newegg.com/p/pl?d=9SIA2XBJC65504), [Walmart](https://walmart.com/ip/4VPQ6TK0RRHS), [Insight](https://www.insight.com/en_US/shop/product/UD-3900C4/PLUGABLE%20TECHNOLOGIES/UD-3900C4/Plugable-UD3900C4--docking-station--USBC--14slot--4-x-HDMI--GigE/), [Amazon](https://www.amazon.com/dp/B09TSQYGKS)
