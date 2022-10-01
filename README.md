@@ -36,7 +36,7 @@
 - [Support and Connect Information](#support-and-connect-information)
   - [Known Issues](#known-issues)
   - [HP](#hp)
-  - [Pop OS and System76](#pop-os-and-system76)
+  - [Pop!\_OS and System76](#pop-os-and-system76)
 - [Useful Links](#useful-links)
 - [Contributors](#contributors)
 - [Disclaimer](#disclaimer)
@@ -198,7 +198,7 @@ Where to buy: [Amazon](https://www.amazon.com/Inland-Platinum-Internal-Compatibl
 ### Monitors
 
 - SAMSUNG 49-inch Odyssey G9 Gaming Monitor:  
-Monitors max resolution is 5120x1440p and max refresh rate is 120Hz. All resolutions are supported. In the settings it shows as 'Unknown 49"' with a refresh rate selection of 59.98Hz only, it should go up to 120Hz, it shows that on my Pop_OS! Linux desktop. This could be due to the HDMI cable limitations. I will check with other cables and also try the USB-C port using an adapter since the Monitor doesn't have a USB-C monitor input.
+Monitors max resolution is 5120x1440p and max refresh rate is 120Hz. All resolutions are supported. In the settings it shows as 'Unknown 49"' with a refresh rate selection of 59.98Hz only, it should go up to 120Hz, it shows that on my Pop!\_OS Linux desktop. This could be due to the HDMI cable limitations. I will check with other cables and also try the USB-C port using an adapter since the Monitor doesn't have a USB-C monitor input.
 
 ### Hubs
 
@@ -211,7 +211,7 @@ Where to buy: Newegg [New](https://www.newegg.com/black-dell-d6000/p/1DN-0002-00
 - [Pluggable UD-3900C4 USB-C Quad HDMI Docking Station](https://plugable.com/products/ud-3900c4), [Spec Sheet PDF](https://m.media-amazon.com/images/I/61dUzlBY9dL.pdf)  
 Where to buy: [new egg](https://www.newegg.com/p/pl?d=9SIA2XBJC65504), [Walmart](https://walmart.com/ip/4VPQ6TK0RRHS), [Insight](https://www.insight.com/en_US/shop/product/UD-3900C4/PLUGABLE%20TECHNOLOGIES/UD-3900C4/Plugable-UD3900C4--docking-station--USBC--14slot--4-x-HDMI--GigE/), [Amazon](https://www.amazon.com/dp/B09TSQYGKS)
 
-**Important Note**: Some Hubs offer displayLink monitor connectors. If you DO NOT already have the display link drivers installed for Pop_OS!, you need to install them in order to use the displayLink ports of your hub. [Download the displayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
+**Important Note**: Some Hubs offer displayLink monitor connectors. If you DO NOT already have the display link drivers installed for Pop!\_OS, you need to install them in order to use the displayLink ports of your hub. [Download the displayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
 
 ### Chargers
 
@@ -288,13 +288,13 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 
 It is possible to use any Linux distribution, instead of Pop!\_OS. The only downside is that you can't update the firmware or BIOS without some additional work. 
 
-The official documentation for [System 76 firmware upgrade](https://support.system76.com/articles/system-firmware/) suggests to use a live-usb of Pop OS to create an environment for updating the firmware.
+The official documentation for [System 76 firmware upgrade](https://support.system76.com/articles/system-firmware/) suggests to use a live USB of Pop!\_OS to create an environment for updating the firmware.
 
 ### Arch Linux
 
 - #### Firmware  
 
-  For Arch Linux, you can install the [`firmware-manager`](https://aur.archlinux.org/packages/firmware-manager) and [`system76-firmware`](https://aur.archlinux.org/packages/system76-firmware) from the [AUR](https://aur.archlinux.org/).
+  For Arch Linux, you can install [`firmware-manager`](https://aur.archlinux.org/packages/firmware-manager) and [`system76-firmware`](https://aur.archlinux.org/packages/system76-firmware) from the [AUR](https://aur.archlinux.org/).
     - Once installed, execute `fwupdmgr refresh --force` to identify your device and relevant updates with the service.
     - From here, you can use the GTK-based GUI in Firmware Manager to update. If you have an issue with checksum authentication, run the commend `fwupdmgr get-updates` followed by `fwupdmgr install --force` to force the upgrade.
 
@@ -321,7 +321,7 @@ The official documentation for [System 76 firmware upgrade](https://support.syst
   | [17029378](https://browser.geekbench.com/v5/cpu/17029378) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1561** | **7815** |
   | [17029213](https://browser.geekbench.com/v5/cpu/17029213) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1547** | **7664** |
 
-*Note: I did a total of three tests. Pop!_OS Power Setting for all tests was set to `High Performance` and `Adaptive Battery Optimizer` in the BIOS was set to `Enabled`. No tweaking/overclocking has been performed.*
+*Note: I did a total of three tests. Pop!\_OS Power Setting for all tests was set to `High Performance` and `Adaptive Battery Optimizer` in the BIOS was set to `Enabled`. No tweaking/overclocking has been performed.*
 
 ## Support and Connect Information
 
@@ -342,7 +342,7 @@ The official documentation for [System 76 firmware upgrade](https://support.syst
 - Twitter: [HP](https://twitter.com/HP)
 - YouTube: [HP](https://www.youtube.com/HP)
 
-### Pop OS and System76
+### Pop!\_OS and System76
 
 - Facebook: [PopOSOfficial](https://www.facebook.com/poposofficial)
 - Instagram: [PopOSOfficial](https://www.instagram.com/pop_os_official/)
