@@ -47,7 +47,7 @@
 
 A new Coupon Code is available for a limited time!
 
-Use Code ` CODE89 ` at checkout to get $89 off !
+Use Code ` CODE89 ` at checkout to get $89 off!
 
 ***Note:*** *This coupon expires on October 15, 2022.*
 
@@ -234,7 +234,7 @@ HP didn't include any explanation about the FN Keys. So this is where this secti
 FN-F1: Screen symbol with a bar to the right and the left
 | Function Key  | Image/Icon | Descripotion |
 | ------------- | ---------- | ------------ |
-| F1  | Rounded Rectangle with a bar to the left and right of it | When connected to an external screen it offers ways to interact with that external screen. You can cycle through the following options when using this function key: Mirror ( Laptop Screen and External Screen show the same screen content, the laptop screen content ), Join Display ( Using all screen with each their own screen conten ), External Only ( The laptop screen will be turned off while the External Screen stays on), Built-In Only ( Only the Laptop screen will be active, all external screens will be turned off) |
+| F1  | Rounded Rectangle with a bar to the left and right of it | When connected to an external screen, it offers ways to interact with that external screen. You can cycle through the following options when using this function key: Mirror ( Laptop Screen and External Screen show the same screen content, the laptop screen content ), Join Display ( Using all screen with each their own screen content ), External Only ( The laptop screen will be turned off while the External Screen stays on), Built-In Only ( Only the Laptop screen will be active, all external screens will be turned off) |
 | F3 | Small Sun | Decrease screen brightness |
 | F4 | Large Sun | Increase screen brightness |
 | F5 | Vertical line through speaker | Toggle sound on/off |
@@ -272,10 +272,10 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 | :------------ | :--------- |
 | Linux OS as a first class citizen | Glossy Display contributes to eye strain |
 | Offers USB-C & USB-A Ports | Display has bad viewing angles, not sure if this is done on purpose for privacy |
-| Can be charged through the USB-C Port | HP choose a 802.11ac (Wi-Fi 5) instead of a 802.11ax (Wi-Fi 6 or 6E) while not a big deal, it would help make this Laptop more future proof! |
+| Can be charged through the USB-C Port | HP chose 802.11ac (Wi-Fi 5), instead of a 802.11ax (Wi-Fi 6 or 6E) while not a big deal, it would help make this Laptop more future proof! |
 | The Webcam is decent for a 720p resolution | Webcam is 720p rather than a 1080p, while not a big deal, it is 2022 |
-| The Webcam has a sliding cover, that can fully cover it  |  |
-| Excellent built in keyboard |  |
+| The Webcam has a sliding cover that can fully cover it  |  |
+| Excellent built-in keyboard |  |
 | Excellent trackpad |  | 
 | Memory can be upgraded to 64 GB |  |
 | No soldered Memory |  |
@@ -286,7 +286,7 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 
 ## Using Other Linux Distributions
 
-It is possible to use any linux distribution in place of Pop OS. The only downside being that you can't update the firmware or bios without some additional work. 
+It is possible to use any Linux distribution, instead of Pop!\_OS. The only downside is that you can't update the firmware or BIOS without some additional work. 
 
 The official documentation for [System 76 firmware upgrade](https://support.system76.com/articles/system-firmware/) suggests to use a live-usb of Pop OS to create an environment for updating the firmware.
 
@@ -294,7 +294,7 @@ The official documentation for [System 76 firmware upgrade](https://support.syst
 
 - #### Firmware  
 
-  For Arch Linux, you can install the `firmware-manager` and `system76-firmware` from the [AUR](https://aur.archlinux.org/).
+  For Arch Linux, you can install the [`firmware-manager`](https://aur.archlinux.org/packages/firmware-manager) and [`system76-firmware`](https://aur.archlinux.org/packages/system76-firmware) from the [AUR](https://aur.archlinux.org/).
     - Once installed, execute `fwupdmgr refresh --force` to identify your device and relevant updates with the service.
     - From here, you can use the GTK-based GUI in Firmware Manager to update. If you have an issue with checksum authentication, run the commend `fwupdmgr get-updates` followed by `fwupdmgr install --force` to force the upgrade.
 
@@ -321,32 +321,32 @@ The official documentation for [System 76 firmware upgrade](https://support.syst
   | [17029378](https://browser.geekbench.com/v5/cpu/17029378) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1561** | **7815** |
   | [17029213](https://browser.geekbench.com/v5/cpu/17029213) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1547** | **7664** |
 
-*Note: I did a total of three tests. POP!_OS Power Setting for all tests was set to `High Performance` and `Adaptive Battery Optimizer` in the BIOS was set to `Enabled`. No tweaking/overclocking has been performed.*
+*Note: I did a total of three tests. Pop!_OS Power Setting for all tests was set to `High Performance` and `Adaptive Battery Optimizer` in the BIOS was set to `Enabled`. No tweaking/overclocking has been performed.*
 
 ## Support and Connect Information
 
 ### Known Issues
 
-- On boot, the bios may show the `90B` System Fan Error. This is a known bug that was patched with a later firmware/bios update. If you experience this issue, update the firmware to version F.05 (or later).
+- On boot, the BIOS may show the `90B` System Fan Error. This is a known bug that was patched with a later firmware/BIOS update. If you experience this issue, update the firmware to version F.05 (or later).
 
 ### HP 
 
 - Login to your HP Account or create an HP Account to initiate a support ticket.
-- [Support on hpdevone.com](https://hpdevone.com/user/support). *Note: User has to be logged on else there will be a blank page only.*
+- [Support on hpdevone.com](https://hpdevone.com/user/support). *Note: User has to be logged in, or else there will only be a blank page.*
 - Tech Support: Mo-Su 5a-5p (PST)
 - Order Status Inquiries: Mo-Fr 8:30a to 5p (MST)
 - Email: [support@hpdevone.com](mailto:support@hpdevone.com)
-- Creating a Suppport ticket through Pop!_OS on the HP Dev One: Open Settings and click on Support
+- Creating a Support ticket through Pop!_OS on the HP Dev One: Open Settings and click on Support
 - Facebook: [HP](https://www.facebook.com/HP)
 - LinkedIn: [HP](https://www.linkedin.com/company/hp)
-- twitter: [HP](https://twitter.com/HP)
+- Twitter: [HP](https://twitter.com/HP)
 - YouTube: [HP](https://www.youtube.com/HP)
 
 ### Pop OS and System76
 
 - Facebook: [PopOSOfficial](https://www.facebook.com/poposofficial)
 - Instagram: [PopOSOfficial](https://www.instagram.com/pop_os_official/)
-- twitter: [PopOSOfficial](https://twitter.com/pop_os_official)
+- Twitter: [PopOSOfficial](https://twitter.com/pop_os_official)
 - GitHub: [System76](https://github.com/system76)
 - YouTube: [System76](https://www.youtube.com/c/System76)
 
@@ -367,13 +367,13 @@ Pull request contributors:
 
 ## Connect/Follow Me
 
-- [reddit](https://www.reddit.com/user/Bert2Go)
+- [Reddit](https://www.reddit.com/user/Bert2Go)
 - [GitHub](https://github.com/Bert2Go)
-- [twitter](https://twitter.com/Bert_2_Go)
+- [Twitter](https://twitter.com/Bert_2_Go)
 
 ## Disclaimer
 * **This is a work in progress, any sharing of this guide and/or pull request is appreciated. Feel free to contact me directly if needed.**
-* I am not receiving any financial kickbacks for any of the links and content. I bought my HP Dev One with my own money. I am sharing information readily available on the internet along with my own personal experiences in regards of this laptop.*
+* I am not receiving any financial kickbacks for any of the links and content. I bought my HP Dev One with my own money. I am sharing information readily available on the internet along with my own personal experiences regarding this laptop.*
 
 ## Buy me a Coffee
 
