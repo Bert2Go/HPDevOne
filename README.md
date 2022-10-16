@@ -4,7 +4,7 @@
 
 - [Coupon Code](#coupon-code)
 - [Shipping Information](#shipping-information)
-- [First Steps After Installing POP!_OS](#first-steps-after-installing-pop_os)
+- [First Steps After Installing Pop!_OS](#first-steps-after-installing-pop_os)
   - [Changing DNS Server Settings](#changing-dns-server-settings)
     - [Cloudflare Public DNS Server](#cloudflare-public-dns-server)
 - [Technical Specs](#technical-specs)
@@ -36,7 +36,7 @@
 - [Support and Connect Information](#support-and-connect-information)
   - [Known Issues](#known-issues)
   - [HP](#hp)
-  - [Pop OS and System76](#pop-os-and-system76)
+  - [Pop!\_OS and System76](#pop-os-and-system76)
 - [Useful Links](#useful-links)
 - [Contributors](#contributors)
 - [Disclaimer](#disclaimer)
@@ -47,16 +47,16 @@
 
 A new Coupon Code is available for a limited time!
 
-Use Code ` CODE89 ` at checkout to get $89 off !
+Use Code ` CODE89 ` at checkout to get $89 off!
 
-***Note:*** *I am not sure when this Coupon Code is going to expire.*</strike>
+***Note:*** *This coupon expires on October 15, 2022.*
 
 ## Shipping Information
 
 - **FedEx** delivered my laptop. Delivery time is **1-2 business days**.
 - People are reporting that HP doesn't ship this laptop to Canada. That said it appears HP ships this laptop only within the USA at this point of time.
 
-## First Steps after installing POP!_OS
+## First Steps after installing Pop!_OS
 
 ### Changing DNS Server Settings
 
@@ -93,7 +93,7 @@ Your ISP automatically assigns DNS servers when your smartphone or router connec
 | :--- | :--- | :--- |
 | Operating System | Linux Pop!_OS 22.04 LTS ||
 | Processor Family | AMD Ryzen™ 7 processor ||
-| Processor | AMD Ryzen™ 7 PRO 5850U processor¹ <br> 8 CPU Cores, 16 Threads <br> 4.4GHz Max. Boost Clock³ <br> 1.9GHz Base Clock⁴ <br> L3 Cache 16MB | With integrated iGPU |
+| Processor | AMD Ryzen™ 7 PRO 5850U processor¹ <br> 8 CPU Cores, 16 Threads <br> 4.4GHz Max. Boost Clock³ <br> 1.9GHz Base Clock⁴ <br> L3 Cache 16MB | With integrated GPU |
 | Available Graphics | Integrated: AMD Radeon™ Graphics (Support HW decode, DX12, HDMI 2.0 and HDCP 2.2) |  |
 | Display Size (diagonal) | 14" |  |
 | Display | 14" diagonal FHD display with HD Webcam (1920x1080) (1000 nits) | Display is Glossy |
@@ -102,7 +102,7 @@ Your ISP automatically assigns DNS servers when your smartphone or router connec
 | Internal Storage | 1 TB PCIe® 3x4 NVMe™ M.2 2280 SSD² | Max 4 TB |
 | Audio | Dual stereo speakers, 2 multi-array microphone |  |
 | Ports and Connectors | 2 SuperSpeed USB Type-C® 10Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4) <br> 2 SuperSpeed USB Type-A 5Gbps signaling rate (1 charging) <br> 1 headphone/microphone combo <br> 1 HDMI 2.0 <br> 1 AC power | HDMI cable sold separately |
-| Available Keyboards | Dual Point Backlit spill-resistant Premium Keyboard⁷ | Notebook keyboard IS backlit! <br> No NFC ⁠ ⁠No Fingerprint reader |
+| Available Keyboards | Dual Point Backlit spill-resistant Premium Keyboard⁷ | Notebook keyboard IS backlit! <br> No NFC, no Fingerprint reader |
 | Available Pointing Devices | Glass clickpad with gesture support as default, Touchpad |  |
 | Sensors | Hall sensor |  |
 | Ambient Light Sensor | Ambient light sensor | Can be turned off through Pop!_OS |
@@ -147,9 +147,9 @@ Your ISP automatically assigns DNS servers when your smartphone or router connec
 You can enter the BIOS using the following methods right after turning on the HP Dev One:
 
 - Repeatedly push the `ESC` until you are presented with a text menu from which you can select the BIOS option to enter the BIOS
-- Repeatedly puch the `F10` button until the BIOS shows up.
+- Repeatedly push the `F10` button until the BIOS shows up.
 
-*Note: If the computer asks for your partition/drive password (if you set it up) or shows your login screen, then you missed the window to trigger the BIOS using the above mentioned methods.*
+*Note: If the computer asks for your partition/drive password (if you set it up) or shows your login screen, then you missed the window to trigger the BIOS using the methods mentioned above.*
 
 ### Configuration
 
@@ -167,21 +167,21 @@ You can enter the BIOS using the following methods right after turning on the HP
 - #### 32GB Kit
 
   - **Teamgroup** Elite DDR4 **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 Unbuffered Non-ECC 1.2V SODIMM 260-Pin  
-Where to buy: [newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N82E16820331504), [Walmart](https://www.walmart.com/ip/Team-TED432G3200C22DC-S01-Elite-2-x-16GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-Laptop-Memory-Model/252223474), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08T17RQ87?th=1)
+Where to buy: [Newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N82E16820331504), [Walmart](https://www.walmart.com/ip/Team-TED432G3200C22DC-S01-Elite-2-x-16GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-Laptop-Memory-Model/252223474), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08T17RQ87)
 
   - **Corsair** Vengeance Performance DDR4 **32GB kit** (2x16GB) 3200MHz PC4-25600 CL22 Non-ECC 1.2V SO-DIMM 260-Pin  
-Where to buy: [newegg](https://www.newegg.com/corsair-32gb-260-pin-ddr4-so-dimm/p/N82E16820236681), [Walmart](https://www.walmart.com/ip/Corsair-CMSX32GX4M2A3200C22-32GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-MHz-Laptop-Memory-Module/372409453), [Amazon](https://www.amazon.com/gp/product/B08GSTF5NJ)
+Where to buy: [Newegg](https://www.newegg.com/corsair-32gb-260-pin-ddr4-so-dimm/p/N82E16820236681), [Walmart](https://www.walmart.com/ip/Corsair-CMSX32GX4M2A3200C22-32GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-MHz-Laptop-Memory-Module/372409453), [Amazon](https://www.amazon.com/gp/product/B08GSTF5NJ)
 
   - **G.SKILL** Ripjaws Series DDR4 (Model F4-3200C22D-32GRS) **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin
-Where to buy: [newegg](https://www.newegg.com/g-skill-32gb-260-pin-ddr4-so-dimm/p/N82E16820374024)
+Where to buy: [Newegg](https://www.newegg.com/g-skill-32gb-260-pin-ddr4-so-dimm/p/N82E16820374024)
 
 - #### 64GB Kit
 
   - **Teamgroup** Elite DDR4 **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 Unbuffered Non-ECC 1.2V SODIMM 260-Pin  
-Where to buy: [newegg](https://www.newegg.com/team-64gb-260-pin-ddr4-so-dimm/p/N82E16820331505), [Walmart](https://www.walmart.com/ip/Team-Group-Inc-TED464G3200C22DC-S01-Nbm-2-32g-team-Ted464g3200c22dc-s01/844902433), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08TQBY2NR)
+Where to buy: [Newegg](https://www.newegg.com/team-64gb-260-pin-ddr4-so-dimm/p/N82E16820331505), [Walmart](https://www.walmart.com/ip/Team-Group-Inc-TED464G3200C22DC-S01-Nbm-2-32g-team-Ted464g3200c22dc-s01/844902433), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08TQBY2NR)
 
   - **Corsair** Vengeance Performance DDR4 **64GB kit** (2x32GB) 3200MHz PC4-25600 CL22 Non-ECC 1.2V SO-DIMM 260-Pin  
-Where to buy: [newegg](https://www.newegg.com/corsair-64gb-260-pin-ddr4-so-dimm/p/N82E16820236807), [Amazon](https://www.amazon.com/Vengeance-Performance-3200MHz-Unbuffered-notebooks/dp/B09DTG3BD7)
+Where to buy: [Newegg](https://www.newegg.com/corsair-64gb-260-pin-ddr4-so-dimm/p/N82E16820236807), [Amazon](https://www.amazon.com/Vengeance-Performance-3200MHz-Unbuffered-notebooks/dp/B09DTG3BD7)
 
   - **G.SKILL** Ripjaws Series DDR4 (Model F4-3200C22D-64GRS) **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin
 Where to buy: [newegg](https://www.newegg.com/g-skill-64gb-260-pin-ddr4-so-dimm/p/N82E16820374025) 
@@ -198,7 +198,7 @@ Where to buy: [Amazon](https://www.amazon.com/Inland-Platinum-Internal-Compatibl
 ### Monitors
 
 - SAMSUNG 49-inch Odyssey G9 Gaming Monitor:  
-Monitors max resolution is 5120x1440p and max refresh rate is 120Hz. All resolutions are supported. In the settings it shows as 'Unknown 49"' with a refresh rate selection of 59.98Hz only, it should go up to 120Hz, it shows that on my Pop_OS! Linux desktop. This could be due to the HDMI cable limitations. I will check with other cables and also try the USB-C port using an adapter since the Monitor doesn't have a USB-C monitor input.
+Monitors max resolution is 5120x1440p and max refresh rate is 120Hz. All resolutions are supported. In the settings it shows as 'Unknown 49"' with a refresh rate selection of 59.98Hz only, it should go up to 120Hz, it shows that on my Pop!\_OS Linux desktop. This could be due to the HDMI cable limitations. I will check with other cables and also try the USB-C port using an adapter since the Monitor doesn't have a USB-C monitor input.
 
 ### Hubs
 
@@ -206,12 +206,12 @@ Monitors max resolution is 5120x1440p and max refresh rate is 120Hz. All resolut
 On the back it has 1x Power Input, 1x HDMI, 2x DisplayLink, 1x Ethernet, 2x USB 3.0, 1x Speaker Out and in the front it has 1x USB 3.0, 1x USB 3.0/BC1.2, 1x USB-C/BC1.2, 1x Audio Combo. The cable to the computer is a USB-C along with an adapter for USB-A!  
 *Note: A nice to have is if you use the USB-C port to connect to the HP Dev One, the dock will charge the HP Dev One.  
 There is also a version D6000S, which DOES NOT have any audio jacks! Info by [raldara on Reddit](https://www.reddit.com/r/Dell/comments/vn617z/comment/ie5bh28/?utm_source=share&utm_medium=web2x&context=3)*  
-Where to buy: newegg [New](https://www.newegg.com/black-dell-d6000/p/1DN-0002-000H2)/[Refurbished](https://www.newegg.com/dell-d6000-black/p/1DN-0002-00581), [Amazon](https://www.amazon.com/Dell-452-BCYT-D6000-Universal-Black/dp/B071YTQBXM)
+Where to buy: Newegg [New](https://www.newegg.com/black-dell-d6000/p/1DN-0002-000H2)/[Refurbished](https://www.newegg.com/dell-d6000-black/p/1DN-0002-00581), [Amazon](https://www.amazon.com/Dell-452-BCYT-D6000-Universal-Black/dp/B071YTQBXM)
 
 - [Pluggable UD-3900C4 USB-C Quad HDMI Docking Station](https://plugable.com/products/ud-3900c4), [Spec Sheet PDF](https://m.media-amazon.com/images/I/61dUzlBY9dL.pdf)  
 Where to buy: [new egg](https://www.newegg.com/p/pl?d=9SIA2XBJC65504), [Walmart](https://walmart.com/ip/4VPQ6TK0RRHS), [Insight](https://www.insight.com/en_US/shop/product/UD-3900C4/PLUGABLE%20TECHNOLOGIES/UD-3900C4/Plugable-UD3900C4--docking-station--USBC--14slot--4-x-HDMI--GigE/), [Amazon](https://www.amazon.com/dp/B09TSQYGKS)
 
-**Important Note**: Some Hubs offer displayLink monitor connectors. If you DO NOT already have the display link drivers installed for Pop_OS!, you need to install them in order to use the displayLink ports of your hub. [Download the displayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
+**Important Note**: Some Hubs offer displayLink monitor connectors. If you DO NOT already have the display link drivers installed for Pop!\_OS, you need to install them in order to use the displayLink ports of your hub. [Download the displayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
 
 ### Chargers
 
@@ -234,7 +234,7 @@ HP didn't include any explanation about the FN Keys. So this is where this secti
 FN-F1: Screen symbol with a bar to the right and the left
 | Function Key  | Image/Icon | Descripotion |
 | ------------- | ---------- | ------------ |
-| F1  | Rounded Rectangle with a bar to the left and right of it | When connected to an external screen it offers ways to interact with that external screen. You can cycle through the following options when using this function key: Mirror ( Laptop Screen and External Screen show the same screen content, the laptop screen content ), Join Display ( Using all screen with each their own screen conten ), External Only ( The laptop screen will be turned off while the External Screen stays on), Built-In Only ( Only the Laptop screen will be active, all external screens will be turned off) |
+| F1  | Rounded Rectangle with a bar to the left and right of it | When connected to an external screen, it offers ways to interact with that external screen. You can cycle through the following options when using this function key: Mirror ( Laptop Screen and External Screen show the same screen content, the laptop screen content ), Join Display ( Using all screen with each their own screen content ), External Only ( The laptop screen will be turned off while the External Screen stays on), Built-In Only ( Only the Laptop screen will be active, all external screens will be turned off) |
 | F3 | Small Sun | Decrease screen brightness |
 | F4 | Large Sun | Increase screen brightness |
 | F5 | Vertical line through speaker | Toggle sound on/off |
@@ -272,10 +272,10 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 | :------------ | :--------- |
 | Linux OS as a first class citizen | Glossy Display contributes to eye strain |
 | Offers USB-C & USB-A Ports | Display has bad viewing angles, not sure if this is done on purpose for privacy |
-| Can be charged through the USB-C Port | HP choose a 802.11ac (Wi-Fi 5) instead of a 802.11ax (Wi-Fi 6 or 6E) while not a big deal, it would help make this Laptop more future proof! |
+| Can be charged through the USB-C Port | HP chose 802.11ac (Wi-Fi 5), instead of a 802.11ax (Wi-Fi 6 or 6E) while not a big deal, it would help make this Laptop more future proof! |
 | The Webcam is decent for a 720p resolution | Webcam is 720p rather than a 1080p, while not a big deal, it is 2022 |
-| The Webcam has a sliding cover, that can fully cover it  |  |
-| Excellent built in keyboard |  |
+| The Webcam has a sliding cover that can fully cover it  |  |
+| Excellent built-in keyboard |  |
 | Excellent trackpad |  | 
 | Memory can be upgraded to 64 GB |  |
 | No soldered Memory |  |
@@ -286,15 +286,15 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 
 ## Using Other Linux Distributions
 
-It is possible to use any linux distribution in place of Pop OS. The only downside being that you can't update the firmware or bios without some additional work. 
+It is possible to use any Linux distribution, instead of Pop!\_OS. The only downside is that you can't update the firmware or BIOS without some additional work. 
 
-The official documentation for [System 76 firmware upgrade](https://support.system76.com/articles/system-firmware/) suggests to use a live-usb of Pop OS to create an environment for updating the firmware.
+The official documentation for [System 76 firmware upgrade](https://support.system76.com/articles/system-firmware/) suggests to use a live USB of Pop!\_OS to create an environment for updating the firmware.
 
 ### Arch Linux
 
 - #### Firmware  
 
-  For Arch Linux, you can install the `firmware-manager` and `system76-firmware` from the [AUR](https://aur.archlinux.org/).
+  For Arch Linux, you can install [`firmware-manager`](https://aur.archlinux.org/packages/firmware-manager) and [`system76-firmware`](https://aur.archlinux.org/packages/system76-firmware) from the [AUR](https://aur.archlinux.org/).
     - Once installed, execute `fwupdmgr refresh --force` to identify your device and relevant updates with the service.
     - From here, you can use the GTK-based GUI in Firmware Manager to update. If you have an issue with checksum authentication, run the commend `fwupdmgr get-updates` followed by `fwupdmgr install --force` to force the upgrade.
 
@@ -321,32 +321,32 @@ The official documentation for [System 76 firmware upgrade](https://support.syst
   | [17029378](https://browser.geekbench.com/v5/cpu/17029378) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1561** | **7815** |
   | [17029213](https://browser.geekbench.com/v5/cpu/17029213) | HP Dev One Notebook PC <br><sup>AMD Ryzen 7 PRO 5850U 4505 MHz (8 cores)</sup> | **1547** | **7664** |
 
-*Note: I did a total of three tests. POP!_OS Power Setting for all tests was set to `High Performance` and `Adaptive Battery Optimizer` in the BIOS was set to `Enabled`. No tweaking/overclocking has been performed.*
+*Note: I did a total of three tests. Pop!\_OS Power Setting for all tests was set to `High Performance` and `Adaptive Battery Optimizer` in the BIOS was set to `Enabled`. No tweaking/overclocking has been performed.*
 
 ## Support and Connect Information
 
 ### Known Issues
 
-- On boot, the bios may show the `90B` System Fan Error. This is a known bug that was patched with a later firmware/bios update. If you experience this issue, update the firmware to version F.05 (or later).
+- On boot, the BIOS may show the `90B` System Fan Error. This is a known bug that was patched with a later firmware/BIOS update. If you experience this issue, update the firmware to version F.05 (or later).
 
 ### HP 
 
 - Login to your HP Account or create an HP Account to initiate a support ticket.
-- [Support on hpdevone.com](https://hpdevone.com/user/support). *Note: User has to be logged on else there will be a blank page only.*
+- [Support on hpdevone.com](https://hpdevone.com/user/support). *Note: User has to be logged in, or else there will only be a blank page.*
 - Tech Support: Mo-Su 5a-5p (PST)
 - Order Status Inquiries: Mo-Fr 8:30a to 5p (MST)
 - Email: [support@hpdevone.com](mailto:support@hpdevone.com)
-- Creating a Suppport ticket through Pop!_OS on the HP Dev One: Open Settings and click on Support
+- Creating a Support ticket through Pop!_OS on the HP Dev One: Open Settings and click on Support
 - Facebook: [HP](https://www.facebook.com/HP)
 - LinkedIn: [HP](https://www.linkedin.com/company/hp)
-- twitter: [HP](https://twitter.com/HP)
+- Twitter: [HP](https://twitter.com/HP)
 - YouTube: [HP](https://www.youtube.com/HP)
 
-### Pop OS and System76
+### Pop!\_OS and System76
 
 - Facebook: [PopOSOfficial](https://www.facebook.com/poposofficial)
 - Instagram: [PopOSOfficial](https://www.instagram.com/pop_os_official/)
-- twitter: [PopOSOfficial](https://twitter.com/pop_os_official)
+- Twitter: [PopOSOfficial](https://twitter.com/pop_os_official)
 - GitHub: [System76](https://github.com/system76)
 - YouTube: [System76](https://www.youtube.com/c/System76)
 
@@ -367,13 +367,13 @@ Pull request contributors:
 
 ## Connect/Follow Me
 
-- [reddit](https://www.reddit.com/user/Bert2Go)
+- [Reddit](https://www.reddit.com/user/Bert2Go)
 - [GitHub](https://github.com/Bert2Go)
-- [twitter](https://twitter.com/Bert_2_Go)
+- [Twitter](https://twitter.com/Bert_2_Go)
 
 ## Disclaimer
 * **This is a work in progress, any sharing of this guide and/or pull request is appreciated. Feel free to contact me directly if needed.**
-* I am not receiving any financial kickbacks for any of the links and content. I bought my HP Dev One with my own money. I am sharing information readily available on the internet along with my own personal experiences in regards of this laptop.*
+* I am not receiving any financial kickbacks for any of the links and content. I bought my HP Dev One with my own money. I am sharing information readily available on the internet along with my own personal experiences regarding this laptop.*
 
 ## Buy me a Coffee
 
