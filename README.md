@@ -45,11 +45,17 @@
 
 ## Coupon Code
 
-A new Coupon Code is available for a limited time!
+**Currently Active Coupon Code/s**
 
-Use Code ` CODE89 ` at checkout to get $89 off!
+Know about a working Coupon Code, please let use know.
 
-***Note:*** *This coupon expires on October 15, 2022.*
+**Expired Coupon Codes**
+
+~~Use Code **` LAUNCH285 `** or **` LAUNCH142 `** to get the keyboard for free!~~ Contributor [davidskeck](https://github.com/Bert2Go/HPDevOne/issues/9)
+
+~~Use Code **` CODE89 `** at checkout to get $89 off!~~
+
+~~Use Code **` HP89 `** at checkout to get $89 off!~~ Contributor [bad_ingots](https://www.reddit.com/r/linuxhardware/comments/vujx95/hp_dev_one_coupon/?utm_source=share&utm_medium=web2x&context=3)
 
 ## Shipping Information
 
@@ -154,7 +160,16 @@ You can enter the BIOS using the following methods right after turning on the HP
 ### Configuration
 
 - #### Adaptive Battery Optimizer  
-  🟥 Does anybody know what this really does? It is supposed to be a technology developed by HP to prolong the battery life of a laptop. There is no option to set the battery percentage limit/s within the BIOS.
+  It is a technology developed by HP to prolong the battery life of a laptop. There is no option to set the battery percentage limit/s within the BIOS.
+  Adaptive Battery Optimizer monitors various battery parameters, including:
+  - battery temperature
+  - battery-charging status
+  - usage patterns
+
+  When Adaptive Battery Optimizer detects certain conditions, protective measures are activated to minimize premature battery wear. While it is activated, the battery run time may be slightly reduced.  
+  HP recommends leaving Adaptive Battery Optimizer enabled to ensure that you get the maximum possible lifespan out of your battery, but it can be disabled at any time. Disabling turns off any protective measures that were implemented and immediately restores any run time that was lost.
+
+  _Note: Disabling Adaptive Battery Optimizer does not affect the battery warranty in any way._
 
 - #### Keyboard Backlight Timeout  
 
@@ -169,22 +184,25 @@ You can enter the BIOS using the following methods right after turning on the HP
   - **Teamgroup** Elite DDR4 **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 Unbuffered Non-ECC 1.2V SODIMM 260-Pin  
 Where to buy: [Newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N82E16820331504), [Walmart](https://www.walmart.com/ip/Team-TED432G3200C22DC-S01-Elite-2-x-16GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-Laptop-Memory-Model/252223474), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08T17RQ87)
 
+  - **Crucial** **32GB Kit** (2x16GB) 260-Pin DDR4 SO-DIMM DDR4 3200 (PC4 25600) Laptop Memory Model CT2K16G4SFD832A  
+  Where to buy: [newegg](https://www.newegg.com/crucial-32gb-260-pin-ddr4-so-dimm/p/20-156-220)
+  
   - **Corsair** Vengeance Performance DDR4 **32GB kit** (2x16GB) 3200MHz PC4-25600 CL22 Non-ECC 1.2V SO-DIMM 260-Pin  
-Where to buy: [Newegg](https://www.newegg.com/corsair-32gb-260-pin-ddr4-so-dimm/p/N82E16820236681), [Walmart](https://www.walmart.com/ip/Corsair-CMSX32GX4M2A3200C22-32GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-MHz-Laptop-Memory-Module/372409453), [Amazon](https://www.amazon.com/gp/product/B08GSTF5NJ)
+  Where to buy: [newegg](https://www.newegg.com/corsair-32gb-260-pin-ddr4-so-dimm/p/N82E16820236681), [Walmart](https://www.walmart.com/ip/Corsair-CMSX32GX4M2A3200C22-32GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-MHz-Laptop-Memory-Module/372409453), [Amazon](https://www.amazon.com/gp/product/B08GSTF5NJ)
 
-  - **G.SKILL** Ripjaws Series DDR4 (Model F4-3200C22D-32GRS) **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin
-Where to buy: [Newegg](https://www.newegg.com/g-skill-32gb-260-pin-ddr4-so-dimm/p/N82E16820374024)
+  - **G.SKILL** Ripjaws Series DDR4 (Model F4-3200C22D-32GRS) **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin  
+  Where to buy: [Newegg](https://www.newegg.com/g-skill-32gb-260-pin-ddr4-so-dimm/p/N82E16820374024)
 
 - #### 64GB Kit
 
   - **Teamgroup** Elite DDR4 **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 Unbuffered Non-ECC 1.2V SODIMM 260-Pin  
-Where to buy: [Newegg](https://www.newegg.com/team-64gb-260-pin-ddr4-so-dimm/p/N82E16820331505), [Walmart](https://www.walmart.com/ip/Team-Group-Inc-TED464G3200C22DC-S01-Nbm-2-32g-team-Ted464g3200c22dc-s01/844902433), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08TQBY2NR)
+  Where to buy: [Newegg](https://www.newegg.com/team-64gb-260-pin-ddr4-so-dimm/p/N82E16820331505), [Walmart](https://www.walmart.com/ip/Team-Group-Inc-TED464G3200C22DC-S01-Nbm-2-32g-team-Ted464g3200c22dc-s01/844902433), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08TQBY2NR)
 
-  - **Corsair** Vengeance Performance DDR4 **64GB kit** (2x32GB) 3200MHz PC4-25600 CL22 Non-ECC 1.2V SO-DIMM 260-Pin  
-Where to buy: [Newegg](https://www.newegg.com/corsair-64gb-260-pin-ddr4-so-dimm/p/N82E16820236807), [Amazon](https://www.amazon.com/Vengeance-Performance-3200MHz-Unbuffered-notebooks/dp/B09DTG3BD7)
+  - **Crucial** **64GB Kit** (32GBx2) DDR4 3200 MT/s CL22 SODIMM 260-Pin Memory - CT2K32G4SFD832A  
+  Where to buy: [newegg](https://www.newegg.com/crucial-64gb-260-pin-ddr4-so-dimm/p/20-156-242)
 
-  - **G.SKILL** Ripjaws Series DDR4 (Model F4-3200C22D-64GRS) **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin
-Where to buy: [newegg](https://www.newegg.com/g-skill-64gb-260-pin-ddr4-so-dimm/p/N82E16820374025) 
+  - **G.SKILL** Ripjaws Series DDR4 (Model F4-3200C22D-64GRS) **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin  
+  Where to buy: [newegg](https://www.newegg.com/g-skill-64gb-260-pin-ddr4-so-dimm/p/N82E16820374025) 
 
 ## External Devices and Accessories  
 
@@ -356,6 +374,7 @@ The official documentation for [System 76 firmware upgrade](https://support.syst
 - [HP Dev One Product Website - FAQ Section](https://hpdevone.com/faq)
 - [Coupon Code Source on Reddit](https://www.reddit.com/r/linuxhardware/comments/vujx95/hp_dev_one_coupon/)
 - [System 76 Firmware Upgrade](https://support.system76.com/articles/system-firmware/)
+- [Adaptive Battery Optimizer](https://support.hp.com/us-en/document/c06310986)
 
 ## Contributors
 
@@ -363,7 +382,7 @@ Thank you to all contributors to the HP Dev One Guide. I really appreciate your 
 
 Pull request contributors:  
 
-<img src="https://avatars.githubusercontent.com/u/51793?s=60&v=4" alt="Fank Kumro Jr" width="32" height="32" /><img src="https://avatars.githubusercontent.com/u/87946040?s=60&v=4" alt="woltersdylan" width="32" height="32" /><img src="https://avatars.githubusercontent.com/u/148352?s=60&v=4" alt="Jim Fowler" width="32" height="32" />
+[<img src="https://avatars.githubusercontent.com/u/51793?s=60&v=4" alt="Fank Kumro Jr" width="32" height="32" />](https://github.com/fkumro)[<img src="https://avatars.githubusercontent.com/u/87946040?s=60&v=4" alt="woltersdylan" width="32" height="32" />](https://github.com/woltersdylan)[<img src="https://avatars.githubusercontent.com/u/148352?s=60&v=4" alt="Jim Fowler" width="32" height="32" />](https://github.com/kisonecat)[<img src="https://avatars.githubusercontent.com/u/93500165?v=4" alt="Jim Fowler" width="32" height="32" />](https://github.com/lazytownfan)
 
 ## Connect/Follow Me
 
