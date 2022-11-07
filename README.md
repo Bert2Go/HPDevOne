@@ -169,7 +169,7 @@ You can enter the BIOS using the following methods right after turning on the HP
   When Adaptive Battery Optimizer detects certain conditions, protective measures are activated to minimize premature battery wear. While it is activated, the battery run time may be slightly reduced.  
   HP recommends leaving Adaptive Battery Optimizer enabled to ensure that you get the maximum possible lifespan out of your battery, but it can be disabled at any time. Disabling turns off any protective measures that were implemented and immediately restores any run time that was lost.
 
-  _Note: Disabling Adaptive Battery Optimizer does not affect the battery warranty in any way._
+  _Note: Disabling Adaptive Battery Optimizer does not affect the battery warranty in any way._ Contributor [afsilva](https://github.com/Bert2Go/HPDevOne/issues/8#issue-1397005852)
 
 - #### Keyboard Backlight Timeout  
 
