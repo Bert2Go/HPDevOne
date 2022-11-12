@@ -199,7 +199,7 @@ Where to buy: [Newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N
   Where to buy: [Newegg](https://www.newegg.com/team-64gb-260-pin-ddr4-so-dimm/p/N82E16820331505), [Walmart](https://www.walmart.com/ip/Team-Group-Inc-TED464G3200C22DC-S01-Nbm-2-32g-team-Ted464g3200c22dc-s01/844902433), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08TQBY2NR)
 
   - **Crucial** **64GB Kit** (32GBx2) DDR4 3200 MT/s CL22 SODIMM 260-Pin Memory - CT2K32G4SFD832A  
-  Where to buy: [newegg](https://www.newegg.com/crucial-64gb-260-pin-ddr4-so-dimm/p/20-156-242)
+  Where to buy: [newegg](https://www.newegg.com/crucial-64gb-260-pin-ddr4-so-dimm/p/20-156-242) [Crucial](https://www.crucial.com/memory/ddr4/ct2k32g4sfd832a)
 
   - **G.SKILL** Ripjaws Series DDR4 (Model F4-3200C22D-64GRS) **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin  
   Where to buy: [newegg](https://www.newegg.com/g-skill-64gb-260-pin-ddr4-so-dimm/p/N82E16820374025) 
