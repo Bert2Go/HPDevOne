@@ -47,12 +47,14 @@
 
 **Currently Active Coupon Code/s**
 
-Use Coupon Code **TAKE110** throgh 11/17/2022 to take **$110** off the HP Dev One on their [website](https://hpdevone.com) !!! Contributor: [pailaway](https://www.reddit.com/r/System76/comments/yool02/comment/ivuy3cq/?utm_source=share&utm_medium=web2x&context=3)
+Use Coupon Code **` DEV200 `** throgh 12/6/2022 to take **$200** off the HP Dev One on their [website](https://hpdevone.com) !!! Contributor: [IPorkyChop](https://www.reddit.com/r/System76/comments/yt8z2i/comment/iwrx2gq/?utm_source=share&utm_medium=web2x&context=3)
 
 *Note from their Website:  
-Valid only in the U.S. at www.hpdevone.com. Offer valid through 11/17/2022 or while supplies last. Limit one per customer, per transaction. Offer has no cash value, is not transferrable and cannot be combined with any other discounts. Not retroactively valid on previously purchased items. To redeem, add HP Dev One laptop to cart and enter code TAKE110. Offer is subject to change without notice.*
+Valid only in the U.S. at www.hpdevone.com. Offer valid through 12/6/2022 or while supplies last. Offer has no cash value, is not transferrable and cannot be combined with any other discounts. Not retroactively valid on previously purchased items. To redeem, add HP Dev One laptop to cart and enter code DEV200. Offer is subject to change without notice.
 
 **Expired Coupon Codes**
+
+~~Use Coupon Code **` TAKE110 `** throgh 11/17/2022 to take **$110** off the HP Dev One on their [website](https://hpdevone.com) !!! Contributor: [pailaway](https://www.reddit.com/r/System76/comments/yool02/comment/ivuy3cq/?utm_source=share&utm_medium=web2x&context=3)~~
 
 ~~Use Code **` LAUNCH285 `** or **` LAUNCH142 `** to get the keyboard for free!~~ Contributor [davidskeck](https://github.com/Bert2Go/HPDevOne/issues/9)
 
@@ -385,7 +387,7 @@ Thank you to all contributors to the HP Dev One Guide. I really appreciate your 
 
 Pull request contributors:  
 
-[<img src="https://avatars.githubusercontent.com/u/51793?s=60&v=4" alt="Fank Kumro Jr" width="32" height="32" />](https://github.com/fkumro)[<img src="https://avatars.githubusercontent.com/u/87946040?s=60&v=4" alt="woltersdylan" width="32" height="32" />](https://github.com/woltersdylan)[<img src="https://avatars.githubusercontent.com/u/148352?s=60&v=4" alt="Jim Fowler" width="32" height="32" />](https://github.com/kisonecat)[<img src="https://avatars.githubusercontent.com/u/93500165?v=4" alt="Jim Fowler" width="32" height="32" />](https://github.com/lazytownfan)
+[<img src="https://avatars.githubusercontent.com/u/51793?s=60&v=4" alt="Fank Kumro Jr" width="32" height="32" />](https://github.com/fkumro)[<img src="https://avatars.githubusercontent.com/u/87946040?s=60&v=4" alt="woltersdylan" width="32" height="32" />](https://github.com/woltersdylan)[<img src="https://avatars.githubusercontent.com/u/148352?s=60&v=4" alt="Jim Fowler" width="32" height="32" />](https://github.com/kisonecat)[<img src="https://avatars.githubusercontent.com/u/93500165?v=4" alt="Jim Fowler" width="32" height="32" />](https://github.com/lazytownfan)[<img src="https://avatars.githubusercontent.com/u/3860655?v=4" alt="Peter Hoburg" width="32" height="32" />](https://github.com/peterHoburg)
 
 ## Connect/Follow Me
 
