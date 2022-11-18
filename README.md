@@ -47,15 +47,12 @@
 
 **Currently Active Coupon Code/s**
 
-:white_check_mark:**Looks like this code is still working**  
-Use Coupon Code **` TAKE110 `** throgh 11/17/2022 to take **$110** off the HP Dev One on their [website](https://hpdevone.com) !!! Contributor: [pailaway](https://www.reddit.com/r/System76/comments/yool02/comment/ivuy3cq/?utm_source=share&utm_medium=web2x&context=3)
-
-:exclamation:**There seems to be an issue with their website, this code DOES NOT work at this point of time. For updates either check my [twitter](https://twitter.com/Bert_2_Go) or [Reddit](https://www.reddit.com/r/System76/comments/yyilqg/hp_dev_one_200_off_coupon_code)**  
-
 Use Coupon Code **` DEV200 `** throgh 12/6/2022 to take **$200** off the HP Dev One on their [website](https://hpdevone.com) !!! Contributor: [IPorkyChop](https://www.reddit.com/r/System76/comments/yt8z2i/comment/iwrx2gq/?utm_source=share&utm_medium=web2x&context=3)
 
 *Note from their Website:  
 Valid only in the U.S. at www.hpdevone.com. Offer valid through 12/6/2022 or while supplies last. Offer has no cash value, is not transferrable and cannot be combined with any other discounts. Not retroactively valid on previously purchased items. To redeem, add HP Dev One laptop to cart and enter code DEV200. Offer is subject to change without notice.
+
+Use Coupon Code **` TAKE110 `** throgh 11/17/2022 to take **$110** off the HP Dev One on their [website](https://hpdevone.com) !!! Contributor: [pailaway](https://www.reddit.com/r/System76/comments/yool02/comment/ivuy3cq/?utm_source=share&utm_medium=web2x&context=3)
 
 **Expired Coupon Codes**
 
