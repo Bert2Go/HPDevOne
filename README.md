@@ -52,11 +52,9 @@ Use Coupon Code **` DEV200 `** throgh 12/6/2022 to take **$200** off the HP Dev 
 *Note from their Website:  
 Valid only in the U.S. at www.hpdevone.com. Offer valid through 12/6/2022 or while supplies last. Offer has no cash value, is not transferrable and cannot be combined with any other discounts. Not retroactively valid on previously purchased items. To redeem, add HP Dev One laptop to cart and enter code DEV200. Offer is subject to change without notice.
 
-~~Use Coupon Code **` TAKE110 `** throgh 11/17/2022 to take **$110** off the HP Dev One on their [website](https://hpdevone.com) !!! Contributor: [pailaway](https://www.reddit.com/r/System76/comments/yool02/comment/ivuy3cq/?utm_source=share&utm_medium=web2x&context=3)~~
-
 **Expired Coupon Codes**
 
-~~Use Coupon Code **` TAKE110 `** throgh 11/17/2022 to take **$110** off the HP Dev One on their [website](https://hpdevone.com) !!! Contributor: [pailaway](https://www.reddit.com/r/System76/comments/yool02/comment/ivuy3cq/?utm_source=share&utm_medium=web2x&context=3)~~
+~~Use Coupon Code **` TAKE110 `** throgh 11/17/2022 to take **$110** off the HP Dev One on their [website](https://hpdevone.com) !!!~~ Contributor: [pailaway](https://www.reddit.com/r/System76/comments/yool02/comment/ivuy3cq/?utm_source=share&utm_medium=web2x&context=3)
 
 ~~Use Code **` LAUNCH285 `** or **` LAUNCH142 `** to get the keyboard for free!~~ Contributor [davidskeck](https://github.com/Bert2Go/HPDevOne/issues/9)
 
