@@ -26,17 +26,17 @@
 - [Function Keys Explained](#function-keys-explained)
 - [Videos](#videos)
   - [Removing and Replacing Parts](#removing-and-replacing-parts)
-  - [Series of two Videos about about the HP Dev One](#series-of-two-videos-about-about-the-hp-dev-one)
+  - [Series of Videos about the HP Dev One](#series-of-videos-about-the-hp-dev-one)
 - [Pros and Cons](#pros-and-cons)
 - [Using Other Linux Distributions](#using-other-linux-distributions)
   - [Arch Linux](#arch-linux)
   - [NixOS](#nixos)
-- [Performance](#Performance)
+- [Performance](#performance)
   - [Geekbench 5](#geekbench-5)
 - [Support and Connect Information](#support-and-connect-information)
   - [Known Issues](#known-issues)
   - [HP](#hp)
-  - [Pop!\_OS and System76](#pop-os-and-system76)
+  - [Pop!\_OS and System76](#pop_os-and-system76)
 - [Useful Links](#useful-links)
 - [Contributors](#contributors)
 - [Disclaimer](#disclaimer)
@@ -52,7 +52,7 @@ Use Coupon Code **` DEV200 `** throgh 12/6/2022 to take **$200** off the HP Dev 
 *Note from their Website:  
 Valid only in the U.S. at www.hpdevone.com. Offer valid through 12/6/2022 or while supplies last. Offer has no cash value, is not transferrable and cannot be combined with any other discounts. Not retroactively valid on previously purchased items. To redeem, add HP Dev One laptop to cart and enter code DEV200. Offer is subject to change without notice.
 
-Use Coupon Code **` TAKE110 `** throgh 11/17/2022 to take **$110** off the HP Dev One on their [website](https://hpdevone.com) !!! Contributor: [pailaway](https://www.reddit.com/r/System76/comments/yool02/comment/ivuy3cq/?utm_source=share&utm_medium=web2x&context=3)
+~~Use Coupon Code **` TAKE110 `** throgh 11/17/2022 to take **$110** off the HP Dev One on their [website](https://hpdevone.com) !!! Contributor: [pailaway](https://www.reddit.com/r/System76/comments/yool02/comment/ivuy3cq/?utm_source=share&utm_medium=web2x&context=3)~~
 
 **Expired Coupon Codes**
 
@@ -109,14 +109,14 @@ Your ISP automatically assigns DNS servers when your smartphone or router connec
 | Processor | AMD Ryzen™ 7 PRO 5850U processor¹ <br> 8 CPU Cores, 16 Threads <br> 4.4GHz Max. Boost Clock³ <br> 1.9GHz Base Clock⁴ <br> L3 Cache 16MB | With integrated GPU |
 | Available Graphics | Integrated: AMD Radeon™ Graphics (Support HW decode, DX12, HDMI 2.0 and HDCP 2.2) |  |
 | Display Size (diagonal) | 14" |  |
-| Display | 14" diagonal FHD display with HD Webcam (1920x1080) (1000 nits) | Display is Glossy |
-| Memory | 16 GB (2x8 GB) DDR4 3200 MT/s | Max memory is 64 GB ( 2x32 GB ) |
+| Display | 14" diagonal FHD display with HD Webcam (1920x1080) (1000 nits) | Display is glossy |
+| Memory | 16 GB (2x8 GB) DDR4 3200 MT/s | Max memory is 64 GB (2x32 GB) |
 | Memory Slots | 2 SODIMM⁵ ||
 | Internal Storage | 1 TB PCIe® 3x4 NVMe™ M.2 2280 SSD² | Max 4 TB |
 | Audio | Dual stereo speakers, 2 multi-array microphone |  |
 | Ports and Connectors | 2 SuperSpeed USB Type-C® 10Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4) <br> 2 SuperSpeed USB Type-A 5Gbps signaling rate (1 charging) <br> 1 headphone/microphone combo <br> 1 HDMI 2.0 <br> 1 AC power | HDMI cable sold separately |
 | Available Keyboards | Dual Point Backlit spill-resistant Premium Keyboard⁷ | Notebook keyboard IS backlit! <br> No NFC, no Fingerprint reader |
-| Available Pointing Devices | Glass clickpad with gesture support as default, Touchpad |  |
+| Available Pointing Devices | Glass clickpad with gesture support as default, touchpad |  |
 | Sensors | Hall sensor |  |
 | Ambient Light Sensor | Ambient light sensor | Can be turned off through Pop!_OS |
 | Wireless Connectivity | Realtek RTL8822CE 802.11a/b/g/n/ac (2x2) Wi-Fi® and Bluetooth® 5 combo¹⁵ | 802.11ac (Wi-Fi 5) |
@@ -159,8 +159,8 @@ Your ISP automatically assigns DNS servers when your smartphone or router connec
 
 You can enter the BIOS using the following methods right after turning on the HP Dev One:
 
-- Repeatedly push the `ESC` until you are presented with a text menu from which you can select the BIOS option to enter the BIOS
-- Repeatedly push the `F10` button until the BIOS shows up.
+- Repeatedly push the <kbd>Esc</kbd> until you are presented with a text menu from which you can select the BIOS option to enter the BIOS
+- Repeatedly push the <kbd>F10</kbd> button until the BIOS shows up.
 
 *Note: If the computer asks for your partition/drive password (if you set it up) or shows your login screen, then you missed the window to trigger the BIOS using the methods mentioned above.*
 
@@ -241,7 +241,7 @@ Where to buy: [new egg](https://www.newegg.com/p/pl?d=9SIA2XBJC65504), [Walmart]
 ### Chargers
 
 - 65W Type C USB AC Charger  
-This charge is affordable and charges the HP Dev One through it's USB-C port.  
+This charge is affordable and charges the HP Dev One through its USB-C port.  
 Where to buy: [Amazon](https://www.amazon.com/gp/product/B09B78WPXK)  
 
 *Note: Additional chargers are great when you travel between different locations, like home and office. Have a charger for each location. Always the worse when you get where you need to go and the charge was forgotten :D*
@@ -259,16 +259,16 @@ HP didn't include any explanation about the FN Keys. So this is where this secti
 FN-F1: Screen symbol with a bar to the right and the left
 | Function Key  | Image/Icon | Descripotion |
 | ------------- | ---------- | ------------ |
-| F1  | Rounded Rectangle with a bar to the left and right of it | When connected to an external screen, it offers ways to interact with that external screen. You can cycle through the following options when using this function key: Mirror ( Laptop Screen and External Screen show the same screen content, the laptop screen content ), Join Display ( Using all screen with each their own screen content ), External Only ( The laptop screen will be turned off while the External Screen stays on), Built-In Only ( Only the Laptop screen will be active, all external screens will be turned off) |
-| F3 | Small Sun | Decrease screen brightness |
-| F4 | Large Sun | Increase screen brightness |
-| F5 | Vertical line through speaker | Toggle sound on/off |
-| F6 | Speaker with one wave | Decrease sound volume |
-| F7 | Speaker with three waves | Increase sound volume |
-| F8 | Vertical line through microphone | Mute microphone |
-| F9 | Keyboard with outer lines | Cycle through keyboard backlight brightness |
-| F11 | Plane | Toggle airplane mode |
-| F12 | Triple Square | Programmable hotkey |
+| <kbd>F1</kbd>  | Rounded Rectangle with a bar to the left and right of it | When connected to an external screen, it offers ways to interact with that external screen. You can cycle through the following options when using this function key: Mirror ( Laptop Screen and External Screen show the same screen content, the laptop screen content ), Join Display ( Using all screen with each their own screen content ), External Only ( The laptop screen will be turned off while the External Screen stays on), Built-In Only ( Only the Laptop screen will be active, all external screens will be turned off) |
+| <kbd>F3</kbd> | Small Sun | Decrease screen brightness |
+| <kbd>F4</kbd> | Large Sun | Increase screen brightness |
+| <kbd>F5</kbd> | Vertical line through speaker | Toggle sound on/off |
+| <kbd>F6</kbd> | Speaker with one wave | Decrease sound volume |
+| <kbd>F7</kbd> | Speaker with three waves | Increase sound volume |
+| <kbd>F8</kbd> | Vertical line through microphone | Mute microphone |
+| <kbd>F9</kbd> | Keyboard with outer lines | Cycle through keyboard backlight brightness |
+| <kbd>F11</kbd> | Plane | Toggle airplane mode |
+| <kbd>F12</kbd> | Triple Square | Programmable hotkey |
 
 ## Videos
 
@@ -277,13 +277,13 @@ FN-F1: Screen symbol with a bar to the right and the left
 - [Removing & Replacing Parts by HP](https://www.youtube.com/watch?v=RkAOS9f5p1I) - Great find by [cutememe](https://www.reddit.com/r/System76/comments/wlpfrk/comment/ikf5oys/?utm_source=share&utm_medium=web2x&context=3)  
 *Note: Even though this is for the HP EliteBook 845 G8 Notebook it can be fully applied to the HP Dev One, aside of a few exceptions/differences mentioned below.*  
 List of exceptions/differences in this video that do NOT apply to the HP Dev One:
-  - The screws to open the case are not P1 Phillips-Head screws, they are Torx T5 screws for the HP Dev One.
-  - The video shows a WAN module covered by a mylar shield, the HP Dev One does NOT have this piece of hardware
-  - The video shows an NFC Board, the HP Dev One does NOT have this piece of hardware
-  - The video shows a Smart Card Board, the HP Dev One does NOT have this piece of hardware 
-  - The video shows a Fingerprint Reader Board, the HP Dev One does NOT have this piece of hardware
+  - The screws on the HP Dev One are Torx T5 screws, not P1 Phillips-head screws
+  - The video shows a WAN module covered by a mylar shield, but the HP Dev One does NOT have this piece of hardware
+  - The video shows an NFC Board, but the HP Dev One does NOT have this piece of hardware
+  - The video shows a Smart Card Board, but the HP Dev One does NOT have this piece of hardware 
+  - The video shows a Fingerprint Reader Board, but the HP Dev One does NOT have this piece of hardware
 
-### Series of two Videos about about the HP Dev One
+### Series of Videos about the HP Dev One
 
 - [HP Dev One Full Review (Part 1) - First Impressions: Hardware Overview, Software Integration & More!](https://www.youtube.com/watch?v=qF63-jT9_ZQ)  
 - [HP Dev One Full Review (Part 2) - Upgrading RAM, Running Other Distros & More!](https://www.youtube.com/watch?v=zJotySEbj3o)  
@@ -295,15 +295,15 @@ List of exceptions/differences in this video that do NOT apply to the HP Dev One
 
 | Pros | Cons |
 | :------------ | :--------- |
-| Linux OS as a first class citizen | Glossy Display contributes to eye strain |
+| Linux OS as a first class citizen | Glossy display contributes to eye strain |
 | Offers USB-C & USB-A Ports | Display has bad viewing angles, not sure if this is done on purpose for privacy |
 | Can be charged through the USB-C Port | HP chose 802.11ac (Wi-Fi 5), instead of a 802.11ax (Wi-Fi 6 or 6E) while not a big deal, it would help make this Laptop more future proof! |
-| The Webcam is decent for a 720p resolution | Webcam is 720p rather than a 1080p, while not a big deal, it is 2022 |
-| The Webcam has a sliding cover that can fully cover it  |  |
+| The webcam is decent for a 720p resolution | webcam is 720p, rather than a 1080p - while not a big deal, it is 2022 |
+| The webcam has a sliding cover that can fully cover it  |  |
 | Excellent built-in keyboard |  |
 | Excellent trackpad |  | 
 | Memory can be upgraded to 64 GB |  |
-| No soldered Memory |  |
+| No soldered memory |  |
 | Generous 1 TB SSD |  |
 | Display brightness up to 1000 Nits |  |
 | Upgradable memory and storage |  |
