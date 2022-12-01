@@ -192,9 +192,6 @@ Where to buy: [Newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N
   - **Crucial** **32GB Kit** (2x16GB) 260-Pin DDR4 SO-DIMM DDR4 3200 (PC4 25600) Laptop Memory Model CT2K16G4SFD832A  
   Where to buy: [newegg](https://www.newegg.com/crucial-32gb-260-pin-ddr4-so-dimm/p/20-156-220)
   
-  - **Corsair** Vengeance Performance DDR4 **32GB kit** (2x16GB) 3200MHz PC4-25600 CL22 Non-ECC 1.2V SO-DIMM 260-Pin  
-  Where to buy: [newegg](https://www.newegg.com/corsair-32gb-260-pin-ddr4-so-dimm/p/N82E16820236681), [Walmart](https://www.walmart.com/ip/Corsair-CMSX32GX4M2A3200C22-32GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-MHz-Laptop-Memory-Module/372409453), [Amazon](https://www.amazon.com/gp/product/B08GSTF5NJ)
-
   - **G.SKILL** Ripjaws Series DDR4 (Model F4-3200C22D-32GRS) **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin  
   Where to buy: [Newegg](https://www.newegg.com/g-skill-32gb-260-pin-ddr4-so-dimm/p/N82E16820374024)
 
