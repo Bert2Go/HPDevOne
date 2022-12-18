@@ -247,7 +247,7 @@ The HP DevOne ships with a HP 802.11ac (Wi-Fi 5) card, instead of a 802.11ax (Wi
 What makes this laptop so very valuable is its upgradability! The Wi-Fi card can be upgraded as well. For most users the Wi-Fi 5 option is more than plenty, but for those that need Wi-Fi 6, they do have the option to replace the Wi-Fi 5 with a Wi-Fi 6 card.  
 Following options to upgrade this laptop with a compatible Wi-Fi 6 card:
 
-- **Intel Wi-Fi 6 AX200** (GIG+) Contributor: [87x9](https://www.reddit.com/r/System76/comments/yool02/comment/izptd3l/?utm_source=share&utm_medium=web2x&context=3)
+- **Intel Wi-Fi 6 AX200** (GIG+) Contributor: [87x9](https://www.reddit.com/r/System76/comments/yool02/comment/izptd3l/?utm_source=share&utm_medium=web2x&context=3)  
 Where to buy: [B&H Foto & Electronics](https://www.bhphotovideo.com/c/product/1591690-REG/intel_ax200_ngwg_dtk_wi_fi_6_gig_desktop.html)  
 *Note: Even though it is the Desktop kit, all you need is the card. When you are replacing the default Wi-Fi 5 card, you will re-use those antenna cables. The kernel supports this card, so no drivers needed*
 
