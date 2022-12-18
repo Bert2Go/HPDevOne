@@ -17,9 +17,12 @@
     - [64GB Kits](#64gb-kit)
   - [Solid State Drives](#solid-state-drives)
     - [4TB](#4tb)
-- [External Devices and Accessories](#external-devices-and-accessories)
+  - [WiFi Card](#wifi-card)
+    - [WiFi 6](#wifi-6)
+- [External Devices](#external-devices)
   - [Monitors](#monitors)
   - [Hubs](#hubs)
+- [Accessories](#accessories)
   - [Chargers](#chargers)
   - [Batteries](#batteries)
   - [Adapters](#adapters)
@@ -36,7 +39,7 @@
 - [Support and Connect Information](#support-and-connect-information)
   - [Known Issues](#known-issues)
   - [HP](#hp)
-  - [Pop!\_OS and System76](#pop_os-and-system76)
+  - [Pop!_OS and System76](#pop_os-and-system76)
 - [Useful Links](#useful-links)
 - [Contributors](#contributors)
 - [Disclaimer](#disclaimer)
@@ -47,16 +50,18 @@
 
 **Currently Active Coupon Code(s)**
 
-Use coupon code **` DEV200 `** through 12/14/2022 to take **$200** off the HP Dev One on the [website](https://hpdevone.com)!!! Contributor: [u/IPorkyChop](https://www.reddit.com/r/System76/comments/yt8z2i/comment/iwrx2gq/?utm_source=share&utm_medium=web2x&context=3)
+Use Coupon Code **` TAKE220 `** through 1/2/2023 to take **$220** off the HP Dev One on their [website](https://hpdevone.com) !!!
 
-*Terms and conditions:
-> Valid only in the U.S. at [www.hpdevone.com](www.hpdevone.com). Offer valid through 12/14/2022 or while supplies last. Offer has no cash value, is not transferrable and cannot be combined with any other discounts. Not retroactively valid on previously purchased items. To redeem, add HP Dev One laptop to cart and enter code **`DEV200`**. Offer is subject to change without notice.
+*Note from their Website:  
+Valid only in the U.S. at www.hpdevone.com. Offer valid through 1/2/2023 or while supplies last. Offer has no cash value, is not transferrable and cannot be combined with any other discounts. Not retroactively valid on previously purchased items. To redeem, add HP Dev One laptop to cart and enter code TAKE220. Offer is subject to change without notice. Contributor: [IPorkyChop](https://www.reddit.com/r/System76/comments/yt8z2i/comment/j0mjtip/?utm_source=share&utm_medium=web2x&context=3)
 
 **Expired Coupon Codes**
 
+~~Use Coupon Code **` DEV200 `** throgh 12/6/2022 to take **$200** off the HP Dev One on their [website](https://hpdevone.com) !!!~~ Contributor: [IPorkyChop](https://www.reddit.com/r/System76/comments/yt8z2i/comment/iwrx2gq/?utm_source=share&utm_medium=web2x&context=3)
+
 ~~Use Coupon Code **` TAKE110 `** throgh 11/17/2022 to take **$110** off the HP Dev One on their [website](https://hpdevone.com) !!!~~ Contributor: [u/pailaway](https://www.reddit.com/r/System76/comments/yool02/comment/ivuy3cq/?utm_source=share&utm_medium=web2x&context=3)
 
-~~Use Code **` LAUNCH285 `** or **` LAUNCH142 `** to get the keyboard for free!~~ Contributor [davidskeck](https://github.com/Bert2Go/HPDevOne/issues/9)
+~~Use Code **` LAUNCH285 `** or **` LAUNCH142 `** to get the **keyboard for free**!~~ Contributor [davidskeck](https://github.com/Bert2Go/HPDevOne/issues/9)
 
 ~~Use Code **` CODE89 `** at checkout to get $89 off!~~
 
@@ -68,6 +73,20 @@ Use coupon code **` DEV200 `** through 12/14/2022 to take **$200** off the HP De
 - People are reporting that HP doesn't ship this laptop to Canada. That said it appears HP ships this laptop only within the USA at this point of time.
 
 ## First Steps after installing Pop!_OS
+
+### Automatic Screen Brightness
+
+#### Toggle Automatic Screen Brightness
+
+Automatic screen brightness adjusts the displays screen brightness based on the surrounding light. If it is light where you sit, then the screen brightness goes up, if it is darker, the screen brightnes goes down. By default this feature is turned `ON`.
+
+To toggle automatic screen brightness ON/OFF in Pop_OS! using the following steps:
+
+##### Steps:
+
+1. Open **Settings**
+2. Select **Power**
+3. Toggle **Automatic Screen Brightness**
 
 ### Changing DNS Server Settings
 
@@ -107,7 +126,7 @@ Your ISP automatically assigns DNS servers when your smartphone or router connec
 | Processor | AMD Ryzen™ 7 PRO 5850U processor¹ <br> 8 CPU Cores, 16 Threads <br> 4.4GHz Max. Boost Clock³ <br> 1.9GHz Base Clock⁴ <br> L3 Cache 16MB | With integrated GPU |
 | Available Graphics | Integrated: AMD Radeon™ Graphics (Support HW decode, DX12, HDMI 2.0 and HDCP 2.2) |  |
 | Display Size (diagonal) | 14" |  |
-| Display | 14" diagonal FHD display with HD Webcam (1920x1080) (1000 nits) | Display is glossy |
+| Display | 14" diagonal FHD display with HD Webcam (1920x1080) (1000 nits) | Display is glossy, this is a privacy screen |
 | Memory | 16 GB (2x8 GB) DDR4 3200 MT/s | Max memory is 64 GB (2x32 GB) |
 | Memory Slots | 2 SODIMM⁵ ||
 | Internal Storage | 1 TB PCIe® 3x4 NVMe™ M.2 2280 SSD² | Max 4 TB |
@@ -210,10 +229,29 @@ Where to buy: [Newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N
 
 ### Solid State Drives
 
+The HP DevOne ships with a 1TB SSD which is sufficient for most users. The HP DevOne supports up to 4TB SSD. For users that need more than 1TB SSD, following a few tested options:
+
 - #### 4TB  
 
+  - **Teamgroup** 4TB SSD M.2 2280 NVMe PCIe Gen 3.0 x 4 3D NAND Internal Solid State Drive  
+Where to buy: [NewEgg](https://www.newegg.com/team-group-4tb-mp34/p/N82E16820331702)
+  
   - **Inland** Platinum 4TB SSD M.2 2280 NVMe PCIe Gen 3.0 x 4 3D NAND Internal Solid State Drive, PCIe Express 3.1 and NVMe 1.3 Compatible - *Credit [brademerica](https://www.reddit.com/r/pop_os/comments/wbk9pm/comment/ii7ck08/?utm_source=share&utm_medium=web2x&context=3)*  
 Where to buy: [Amazon](https://www.amazon.com/Inland-Platinum-Internal-Compatible-Solutions/dp/B08FT8LFNM)
+
+### WiFi Card
+
+- #### WiFi 6
+
+The HP DevOne ships with a HP 802.11ac (Wi-Fi 5) card, instead of a 802.11ax (Wi-Fi 6 or 6E) card, while not a big deal, it would help make this Laptop more future-proof.  
+What makes this laptop so very valuable is its upgradability! The Wi-Fi card can be upgraded as well. For most users the Wi-Fi 5 option is more than plenty, but for those that need Wi-Fi 6, they do have the option to replace the Wi-Fi 5 with a Wi-Fi 6 card.  
+Following options to upgrade this laptop with a compatible Wi-Fi 6 card:
+
+- **Intel Wi-Fi 6 AX200** (GIG+)  
+Where to buy: [B&H Foto & Electronics](https://www.bhphotovideo.com/c/product/1591690-REG/intel_ax200_ngwg_dtk_wi_fi_6_gig_desktop.html)  
+*Note: Even though it is the Desktop kit, all you need is the card. When you are replacing the default Wi-Fi 5 card, you will re-use those antenna cables. The kernel supports this card, so no drivers needed*
+
+## External Devices
 
 ### Monitors
 
@@ -233,6 +271,8 @@ Where to buy: [new egg](https://www.newegg.com/p/pl?d=9SIA2XBJC65504), [Walmart]
 
 **Important Note**: Some Hubs offer displayLink monitor connectors. If you DO NOT already have the display link drivers installed for Pop!\_OS, you need to install them in order to use the displayLink ports of your hub. [Download the displayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
 
+## Accessories
+
 ### Chargers
 
 - 65W Type C USB AC Charger  
@@ -250,10 +290,12 @@ Coming Soon !
 Coming Soon !
 
 ## Function Keys Explained
+
 HP didn't include any explanation about the FN Keys. So this is where this section comes in handy, it will add a quick description to the FN Keys.
 FN-F1: Screen symbol with a bar to the right and the left
-| Function Key  | Image/Icon | Descripotion |
-| ------------- | ---------- | ------------ |
+
+| Function Key  | Image/Icon | Description |
+| ------------- | ---------- | ----------- |
 | <kbd>F1</kbd>  | Rounded Rectangle with a bar to the left and right of it | When connected to an external screen, it offers ways to interact with that external screen. You can cycle through the following options when using this function key: Mirror ( Laptop Screen and External Screen show the same screen content, the laptop screen content ), Join Display ( Using all screen with each their own screen content ), External Only ( The laptop screen will be turned off while the External Screen stays on), Built-In Only ( Only the Laptop screen will be active, all external screens will be turned off) |
 | <kbd>F3</kbd> | Small Sun | Decrease screen brightness |
 | <kbd>F4</kbd> | Large Sun | Increase screen brightness |
