@@ -2,6 +2,7 @@
 
 ***Work in progress, feel free to contribute.***
 
+- [Status](#status)
 - [Coupon Code](#coupon-code)
 - [Shipping Information](#shipping-information)
 - [First Steps After Installing Pop!_OS](#first-steps-after-installing-pop_os)
@@ -40,22 +41,31 @@
   - [Known Issues](#known-issues)
   - [HP](#hp)
   - [Pop!_OS and System76](#pop_os-and-system76)
+- [Questions & Answers](#question--answers)
 - [Useful Links](#useful-links)
 - [Contributors](#contributors)
+- [Supporters](#supporters)
 - [Disclaimer](#disclaimer)
 - [Connect/Follow Me](#connectfollow-me)
 - [Buy Me A Coffee](#buy-me-a-coffee)
+
+## Status
+
+As per the [HP Dev One Website](https://hpdevone.com), the HP Dev One has sold out. Contributor: [davidskeck](https://github.com/Bert2Go/HPDevOne/issues/22)
+
+> We have sold out of all HP Dev One PCs and our dedicated support team is still available to assist you for 3-years from purchase. To contact support, please sign into your HP account and submit a ticket.
+
+This Guide will continue to be updated and is looking forward to more content to be added by the HP Dev One owners, the community and the maintainers.
 
 ## Coupon Code
 
 **Currently Active Coupon Code(s)**
 
-Use Coupon Code **` TAKE220 `** through 1/30/2023 to take **$220** off the HP Dev One on their [website](https://hpdevone.com) !!! Contributor: [u/IPorkyChop](https://www.reddit.com/r/System76/comments/yt8z2i/comment/j0mjtip/?utm_source=share&utm_medium=web2x&context=3)
-
-*Note from their Website:  
-Valid only in the U.S. at www.hpdevone.com. Offer valid through 1/30/2023 or while supplies last. Offer has no cash value, is not transferrable and cannot be combined with any other discounts. Not retroactively valid on previously purchased items. To redeem, add HP Dev One laptop to cart and enter code TAKE220. Offer is subject to change without notice.
+No coupons available.
 
 **Expired Coupon Codes**
+
+~~Use Coupon Code **` TAKE220 `** through 1/30/2023 to take **$220** off the HP Dev One on their [website](https://hpdevone.com) !!!~~ Contributor: [u/IPorkyChop](https://www.reddit.com/r/System76/comments/yt8z2i/comment/j0mjtip/?utm_source=share&utm_medium=web2x&context=3)
 
 ~~Use Coupon Code **` DEV200 `** throgh 12/6/2022 to take **$200** off the HP Dev One on their [website](https://hpdevone.com) !!!~~ Contributor: [u/IPorkyChop](https://www.reddit.com/r/System76/comments/yt8z2i/comment/iwrx2gq/?utm_source=share&utm_medium=web2x&context=3)
 
@@ -412,6 +422,11 @@ The official documentation for [System 76 firmware upgrade](https://support.syst
 - GitHub: [System76](https://github.com/system76)
 - YouTube: [System76](https://www.youtube.com/c/System76)
 
+## Question & Answers
+
+**Q: Does the HP DevOne have CoreBoot ?**  
+A: No
+
 ## Useful Links
 
 - [HP Dev One Product Website](https://hpdevone.com/)
@@ -427,6 +442,12 @@ Thank you to all contributors to the HP Dev One Guide. I really appreciate your 
 Pull request contributors:  
 
 [<img src="https://avatars.githubusercontent.com/u/51793?s=60&v=4" alt="Fank Kumro Jr" width="32" height="32" />](https://github.com/fkumro)[<img src="https://avatars.githubusercontent.com/u/87946040?s=60&v=4" alt="woltersdylan" width="32" height="32" />](https://github.com/woltersdylan)[<img src="https://avatars.githubusercontent.com/u/148352?s=60&v=4" alt="Jim Fowler" width="32" height="32" />](https://github.com/kisonecat)[<img src="https://avatars.githubusercontent.com/u/93500165?v=4" alt="Jim Fowler" width="32" height="32" />](https://github.com/lazytownfan)[<img src="https://avatars.githubusercontent.com/u/3860655?v=4" alt="Peter Hoburg" width="32" height="32" />](https://github.com/peterHoburg)
+
+## Supporters
+
+Thank you to the following folks that support/supported this guide using the [Buy me a Coffee](https://www.buymeacoffee.com/Bert2Go) option.
+
+- Wicka
 
 ## Connect/Follow Me
 
