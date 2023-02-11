@@ -1,5 +1,7 @@
 # HP Dev One Guide
 
+![HP Dev One Image](/assets/images/20220910-hp-dev-one.png)
+
 ***Work in progress, feel free to contribute.***
 
 - [Status](#status)
