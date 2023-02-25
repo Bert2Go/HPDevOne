@@ -482,22 +482,10 @@ How can I contribute to this guide:
 
 ## Contact Form
 
-This contact form only shows/works through the [Website Version](https://hpdevone.bert2go.com#contact-form) of this guide, not through the GitHub version.
+<form action="https://fabform.io/f/44D576Y" method="post" style="width: 350px; margin: 0 auto"><label for="name">Your Name<br></label><input name="name" type="text" style="width: 100%"><label for="email">Your Email<br></label><input name="email" type="email" style="width: 100%"><label for="message" class="label">Message<br></label><textarea name="message" style="width: 100%; height: 200px;"></textarea><button>Send</button></form>
 
-<form action="https://fabform.io/f/44D576Y" method="post" style="width: 350px; margin: 0 auto">
-  <label for="name">Your Name<br></label>
-  <input name="name" type="text" style="width: 100%">
-  
-  <label for="email">Your Email<br></label>
-  <input name="email" type="email" style="width: 100%">
-  
-  <label for="message" class="label">Message<br></label>
-  <textarea name="message"  style="width: 100%; height: 200px;"></textarea>
-  
-  <button>
-    Send 
-  </button>
-</form>
+*Note:   
+This contact form only works for the [Website Version](https://hpdevone.bert2go.com#contact-form) of this guide, not through the GitHub version.*
 
 ## Buy me a Coffee
 
