@@ -2,6 +2,8 @@
 
 ![HP Dev One Image](/assets/images/20220910-hp-dev-one.png)
 
+**This Guide is available at:** [Website](https://hpdevone.bert2go.com/), [GitHub](https://github.com/Bert2Go/HPDevOne)
+
 ## Table of Contents
 
 - [Status](#status)
@@ -49,6 +51,8 @@
 - [Supporters](#supporters)
 - [Disclaimer](#disclaimer)
 - [Connect/Follow Me](#connectfollow-me)
+- [About this HP Dev One Guide](#about-this-hp-dev-one-guide)
+- [Contact](#contact-form)
 - [Buy Me A Coffee](#buy-me-a-coffee)
 
 ## Status
@@ -57,7 +61,7 @@ As per the [HP Dev One Website](https://hpdevone.com), the HP Dev One has sold o
 
 > We have sold out of all HP Dev One PCs and our dedicated support team is still available to assist you for 3-years from purchase. To contact support, please sign into your HP account and submit a ticket.
 
-This Guide will continue to be updated and is looking forward to more content to be added by the HP Dev One owners, the community and the maintainers.
+**This Guide will continue to be updated and is looking forward to more content to be added by the HP Dev One owners, the community and the maintainers.**
 
 ## Coupon Code
 
@@ -463,6 +467,39 @@ Thank you to the following folks that support/supported this guide using the [Bu
 ## Disclaimer
 * **This is a work in progress, any sharing of this guide and/or pull request is appreciated. Feel free to contact me directly if needed.**
 * I am not receiving any financial kickbacks for any of the links and content. I bought my HP Dev One with my own money. I am sharing information readily available on the internet along with my own personal experiences regarding this laptop.*
+
+## About this HP Dev One Guide
+
+**Even though this laptop has officially been sold out by HP, this guide is still under active development.**
+
+How can I contribute to this guide:
+
+- Post anything on Reddit about the HP Dev One and tag me [u/Bert2Go](https://www.reddit.com/user/Bert2Go) and I will add the content to this guide.
+
+- Fork this repo and contribute by creating a pull request
+
+- Use the [Contact Form](#contact-form)
+
+## Contact Form
+
+<form action="https://fabform.io/f/44D576Y" method="post" style="width: 350px; margin: 0 auto">
+
+  <label for="name">Your Name<br>
+  <input name="name" type="text" style="width: 100%">
+  </label>
+
+  <label for="email">Your Email<br>
+  <input name="email" type="email" style="width: 100%">
+  </label>
+
+  <label for="message" class="label">Message<br>
+    <textarea name="message"  style="width: 100%; height: 200px;"></textarea>
+  </label>
+
+  <button>
+    Send 
+  </button>
+</form>
 
 ## Buy me a Coffee
 
