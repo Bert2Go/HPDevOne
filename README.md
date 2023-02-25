@@ -255,8 +255,11 @@ Where to buy: [Amazon](https://www.amazon.com/Inland-Platinum-Internal-Compatibl
 
 - #### WiFi 6
 
-The HP DevOne ships with a HP 802.11ac (Wi-Fi 5) card, instead of a 802.11ax (Wi-Fi 6 or 6E) card, while not a big deal, it would help make this Laptop more future-proof.  
+The HP Dev One ships with a Realtek RTL8822CE 802.11ac (Wi-Fi 5) card, instead of a 802.11ax (Wi-Fi 6 or 6E) card, while not a big deal, it would help make this Laptop more future-proof.  
 What makes this laptop so very valuable is its upgradability! The Wi-Fi card can be upgraded as well. For most users the Wi-Fi 5 option is more than plenty, but for those that need Wi-Fi 6, they do have the option to replace the Wi-Fi 5 with a Wi-Fi 6 card.  
+
+The HP Dev One is compatible with Wi-Fi modules that conform to the [M.2 2230 form factor and are A & E keyed](https://en.wikipedia.org/wiki/M.2#Form_factors_and_keying).
+
 Following options to upgrade this laptop with a compatible Wi-Fi 6 card:
 
 - **Intel Wi-Fi 6 AX200** (GIG+) Contributor: [87x9](https://www.reddit.com/r/System76/comments/yool02/comment/izptd3l/?utm_source=share&utm_medium=web2x&context=3)  
