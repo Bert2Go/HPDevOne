@@ -51,6 +51,8 @@
 
 ## Status
 
+[Status](status.md)
+
 As per the [HP Dev One Website](https://hpdevone.com), the HP Dev One has sold out. Contributor: [davidskeck](https://github.com/Bert2Go/HPDevOne/issues/22)
 
 > We have sold out of all HP Dev One PCs and our dedicated support team is still available to assist you for 3-years from purchase. To contact support, please sign into your HP account and submit a ticket.
