@@ -1,4 +1,6 @@
-[HP Dev One Home](README.md) - Status
+# [HP Dev One Guide](README.md)
+
+## Status
 
 As per the [HP Dev One Website](https://hpdevone.com), the HP Dev One has sold out. Contributor: [davidskeck](https://github.com/Bert2Go/HPDevOne/issues/22)
 

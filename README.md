@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- [Status](#status)
+- [Status](/topics/status.md)
 - [Coupon Code](#coupon-code)
 - [Shipping Information](#shipping-information)
 - [First Steps After Installing Pop!_OS](#first-steps-after-installing-pop_os)
@@ -54,16 +54,6 @@
 - [About this HP Dev One Guide](#about-this-hp-dev-one-guide)
 - [Contact](#contact-form)
 - [Buy Me A Coffee](#buy-me-a-coffee)
-
-## Status
-
-[Status](status.md)
-
-As per the [HP Dev One Website](https://hpdevone.com), the HP Dev One has sold out. Contributor: [davidskeck](https://github.com/Bert2Go/HPDevOne/issues/22)
-
-> We have sold out of all HP Dev One PCs and our dedicated support team is still available to assist you for 3-years from purchase. To contact support, please sign into your HP account and submit a ticket.
-
-**This Guide will continue to be updated and is looking forward to more content to be added by the HP Dev One owners, the community and the maintainers.**
 
 ## Coupon Code
 
