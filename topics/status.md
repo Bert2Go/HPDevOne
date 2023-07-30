@@ -1,4 +1,4 @@
-# [HP Dev One Guide](README.md)
+# [HP Dev One Guide](/README.md)
 
 ## Status
 
