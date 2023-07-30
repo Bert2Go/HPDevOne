@@ -1,6 +1,10 @@
 # HP Dev One Guide
 
-***Work in progress, feel free to contribute.***
+![HP Dev One Image](/assets/images/20220910-hp-dev-one.png)
+
+**This Guide is available at:** [Website](https://hpdevone.bert2go.com/), [GitHub](https://github.com/Bert2Go/HPDevOne)
+
+## Table of Contents
 
 - [Status](#status)
 - [Coupon Code](#coupon-code)
@@ -47,6 +51,8 @@
 - [Supporters](#supporters)
 - [Disclaimer](#disclaimer)
 - [Connect/Follow Me](#connectfollow-me)
+- [About this HP Dev One Guide](#about-this-hp-dev-one-guide)
+- [Contact](#contact-form)
 - [Buy Me A Coffee](#buy-me-a-coffee)
 
 ## Status
@@ -57,9 +63,7 @@ As per the [HP Dev One Website](https://hpdevone.com), the HP Dev One has sold o
 
 > We have sold out of all HP Dev One PCs and our dedicated support team is still available to assist you for 3-years from purchase. To contact support, please sign into your HP account and submit a ticket.
 
-🟥 **There are currently factory refurbished units sold on [eBay](https://www.ebay.com/itm/295477381703) for less than $600.**
-
-This Guide will continue to be updated and is looking forward to more content to be added by the HP Dev One owners, the community and the maintainers.
+**This Guide will continue to be updated and is looking forward to more content to be added by the HP Dev One owners, the community and the maintainers.**
 
 ## Coupon Code
 
@@ -257,8 +261,11 @@ Where to buy: [Amazon](https://www.amazon.com/Inland-Platinum-Internal-Compatibl
 
 - #### WiFi 6
 
-The HP DevOne ships with a HP 802.11ac (Wi-Fi 5) card, instead of a 802.11ax (Wi-Fi 6 or 6E) card, while not a big deal, it would help make this Laptop more future-proof.  
+The HP Dev One ships with a Realtek RTL8822CE 802.11ac (Wi-Fi 5) card, instead of a 802.11ax (Wi-Fi 6 or 6E) card, while not a big deal, it would help make this Laptop more future-proof.  
 What makes this laptop so very valuable is its upgradability! The Wi-Fi card can be upgraded as well. For most users the Wi-Fi 5 option is more than plenty, but for those that need Wi-Fi 6, they do have the option to replace the Wi-Fi 5 with a Wi-Fi 6 card.  
+
+The HP Dev One is compatible with Wi-Fi modules that conform to the [M.2 2230 form factor and are A & E keyed](https://en.wikipedia.org/wiki/M.2#Form_factors_and_keying).
+
 Following options to upgrade this laptop with a compatible Wi-Fi 6 card:
 
 - **Intel Wi-Fi 6 AX200** (GIG+) Contributor: [87x9](https://www.reddit.com/r/System76/comments/yool02/comment/izptd3l/?utm_source=share&utm_medium=web2x&context=3)  
@@ -445,7 +452,7 @@ Thank you to all contributors to the HP Dev One Guide. I really appreciate your 
 
 Pull request contributors:  
 
-[<img src="https://avatars.githubusercontent.com/u/51793?s=60&v=4" alt="Fank Kumro Jr" width="32" height="32" />](https://github.com/fkumro)[<img src="https://avatars.githubusercontent.com/u/87946040?s=60&v=4" alt="woltersdylan" width="32" height="32" />](https://github.com/woltersdylan)[<img src="https://avatars.githubusercontent.com/u/148352?s=60&v=4" alt="Jim Fowler" width="32" height="32" />](https://github.com/kisonecat)[<img src="https://avatars.githubusercontent.com/u/93500165?v=4" alt="Jim Fowler" width="32" height="32" />](https://github.com/lazytownfan)[<img src="https://avatars.githubusercontent.com/u/3860655?v=4" alt="Peter Hoburg" width="32" height="32" />](https://github.com/peterHoburg)
+[<img src="https://avatars.githubusercontent.com/u/51793?s=60&v=4" alt="Fank Kumro Jr" width="32" height="32" />](https://github.com/fkumro)[<img src="https://avatars.githubusercontent.com/u/87946040?s=60&v=4" alt="woltersdylan" width="32" height="32" />](https://github.com/woltersdylan)[<img src="https://avatars.githubusercontent.com/u/148352?s=60&v=4" alt="Jim Fowler" width="32" height="32" />](https://github.com/kisonecat)[<img src="https://avatars.githubusercontent.com/u/93500165?v=4" alt="Jim Fowler" width="32" height="32" />](https://github.com/lazytownfan)[<img src="https://avatars.githubusercontent.com/u/3860655?v=4" alt="Peter Hoburg" width="32" height="32" />](https://github.com/peterHoburg)[<img src="https://avatars.githubusercontent.com/u/3579286?v=4" alt="Alex DeLorenzo" width="32" height="32" />](https://github.com/alexdelorenzo)
 
 ## Supporters
 
@@ -463,6 +470,25 @@ Thank you to the following folks that support/supported this guide using the [Bu
 * **This is a work in progress, any sharing of this guide and/or pull request is appreciated. Feel free to contact me directly if needed.**
 * I am not receiving any financial kickbacks for any of the links and content. I bought my HP Dev One with my own money. I am sharing information readily available on the internet along with my own personal experiences regarding this laptop.*
 
+## About this HP Dev One Guide
+
+**Even though this laptop has officially been sold out by HP, this guide is still under active development.**
+
+How can I contribute to this guide:
+
+- Post anything on Reddit about the HP Dev One and tag me [u/Bert2Go](https://www.reddit.com/user/Bert2Go) and I will add the content to this guide.
+
+- Fork this repo and contribute by creating a pull request
+
+- Use the [Contact Form](#contact-form)
+
+## Contact Form
+
+<form action="https://fabform.io/f/44D576Y" method="post" style="width: 350px; margin: 0 auto"><label for="name">Your Name<br></label><input name="name" type="text" style="width: 100%" required><label for="email">Your Email<br></label><input name="email" type="email" style="width: 100%" required><label for="message" class="label">Message<br></label><textarea name="message" style="width: 100%; height: 200px;" required></textarea><button>Send</button></form>
+
+*Note:   
+This contact form only works for the [Website Version](https://hpdevone.bert2go.com#contact-form) of this guide, not through the GitHub version.*
+
 ## Buy me a Coffee
 
 <p align="center">
@@ -476,3 +502,4 @@ Thank you to the following folks that support/supported this guide using the [Bu
 <p align="center">
   Thank you!
 </p>
+
