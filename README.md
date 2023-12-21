@@ -375,7 +375,7 @@ The official documentation for [System 76 firmware upgrade](https://support.syst
 
 - #### Firmware  
 
-  Since the machine supports the [Linux Vendor Firmware Service](https://fwupd.org) (LVFS), you can use
+  Since the [machine](https://fwupd.org/lvfs/devices/com.hp.laptop.devone.firmware) supports the [Linux Vendor Firmware Service](https://fwupd.org) (LVFS), you can use
   ```
     services.fwupd.enable = true; # for firmware updates 
     services.udisks2.enable = true; # needed for fwupd
