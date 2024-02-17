@@ -280,7 +280,7 @@ Where to buy: Newegg [New](https://www.newegg.com/black-dell-d6000/p/1DN-0002-00
 - [Pluggable UD-3900C4 USB-C Quad HDMI Docking Station](https://plugable.com/products/ud-3900c4), [Spec Sheet PDF](https://m.media-amazon.com/images/I/61dUzlBY9dL.pdf)  
 Where to buy: [Newegg](https://www.newegg.com/p/pl?d=9SIA2XBJC65504), [Walmart](https://walmart.com/ip/4VPQ6TK0RRHS), [Insight](https://www.insight.com/en_US/shop/product/UD-3900C4/PLUGABLE%20TECHNOLOGIES/UD-3900C4/Plugable-UD3900C4--docking-station--USBC--14slot--4-x-HDMI--GigE/), [Amazon](https://www.amazon.com/dp/B09TSQYGKS)
 
-**Important Note**: Some Hubs offer displayLink monitor connectors. If you DO NOT already have the display link drivers installed for Pop!\_OS, you need to install them in order to use the displayLink ports of your hub. [Download the displayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
+**Important Note**: Some Hubs offer DisplayLink monitor connectors. If you DO NOT already have the DisplayLink drivers installed for Pop!\_OS, you need to install them in order to use the DisplayLink ports of your hub. [Download the DisplayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
 
 ## Accessories
 
