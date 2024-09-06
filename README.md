@@ -22,8 +22,8 @@
     - [64GB Kits](#64gb-kit)
   - [Solid State Drives](#solid-state-drives)
     - [4TB](#4tb)
-  - [WiFi Card](#wifi-card)
-    - [WiFi 6](#wifi-6)
+  - [Wi-Fi Card](#wi-fi-card)
+    - [Wi-Fi 6](#wi-fi-6)
 - [External Devices](#external-devices)
   - [Monitors](#monitors)
   - [Hubs](#hubs)
@@ -217,7 +217,7 @@ You can enter the BIOS using the following methods right after turning on the HP
 Where to buy: [Newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N82E16820331504), [Walmart](https://www.walmart.com/ip/Team-TED432G3200C22DC-S01-Elite-2-x-16GB-260-Pin-DDR4-SO-DIMM-DDR4-3200-Laptop-Memory-Model/252223474), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08T17RQ87)
 
   - **Crucial** **32GB Kit** (2x16GB) 260-Pin DDR4 SO-DIMM DDR4 3200 (PC4 25600) Laptop Memory Model CT2K16G4SFD832A  
-  Where to buy: [newegg](https://www.newegg.com/crucial-32gb-260-pin-ddr4-so-dimm/p/20-156-220)
+  Where to buy: [Newegg](https://www.newegg.com/crucial-32gb-260-pin-ddr4-so-dimm/p/20-156-220)
   
   - **G.SKILL** Ripjaws Series DDR4 (Model F4-3200C22D-32GRS) **32GB Kit** (2x16GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin  
   Where to buy: [Newegg](https://www.newegg.com/g-skill-32gb-260-pin-ddr4-so-dimm/p/N82E16820374024)
@@ -228,10 +228,10 @@ Where to buy: [Newegg](https://www.newegg.com/team-32gb-260-pin-ddr4-so-dimm/p/N
   Where to buy: [Newegg](https://www.newegg.com/team-64gb-260-pin-ddr4-so-dimm/p/N82E16820331505), [Walmart](https://www.walmart.com/ip/Team-Group-Inc-TED464G3200C22DC-S01-Nbm-2-32g-team-Ted464g3200c22dc-s01/844902433), [Amazon](https://www.amazon.com/TEAMGROUP-PC4-25600-Unbuffered-Notebook-Computer/dp/B08TQBY2NR)
 
   - **Crucial** **64GB Kit** (32GBx2) DDR4 3200 MT/s CL22 SODIMM 260-Pin Memory - CT2K32G4SFD832A  
-  Where to buy: [newegg](https://www.newegg.com/crucial-64gb-260-pin-ddr4-so-dimm/p/20-156-242) [Crucial](https://www.crucial.com/memory/ddr4/ct2k32g4sfd832a)
+  Where to buy: [Newegg](https://www.newegg.com/crucial-64gb-260-pin-ddr4-so-dimm/p/20-156-242) [Crucial](https://www.crucial.com/memory/ddr4/ct2k32g4sfd832a)
 
   - **G.SKILL** Ripjaws Series DDR4 (Model F4-3200C22D-64GRS) **64GB Kit** (2x32GB) 3200MHZ PC4-25600 CL22 SO-DIMM 260-Pin  
-  Where to buy: [newegg](https://www.newegg.com/g-skill-64gb-260-pin-ddr4-so-dimm/p/N82E16820374025) 
+  Where to buy: [Newegg](https://www.newegg.com/g-skill-64gb-260-pin-ddr4-so-dimm/p/N82E16820374025) 
 
 ## External Devices and Accessories  
 
@@ -242,14 +242,14 @@ The HP DevOne ships with a 1TB SSD which is sufficient for most users. The HP De
 - #### 4TB  
 
   - **Teamgroup** 4TB SSD M.2 2280 NVMe PCIe Gen 3.0 x 4 3D NAND Internal Solid State Drive  
-Where to buy: [NewEgg](https://www.newegg.com/team-group-4tb-mp34/p/N82E16820331702)
+Where to buy: [Newegg](https://www.newegg.com/team-group-4tb-mp34/p/N82E16820331702)
   
   - **Inland** Platinum 4TB SSD M.2 2280 NVMe PCIe Gen 3.0 x 4 3D NAND Internal Solid State Drive, PCIe Express 3.1 and NVMe 1.3 Compatible - *Credit [brademerica](https://www.reddit.com/r/pop_os/comments/wbk9pm/comment/ii7ck08/?utm_source=share&utm_medium=web2x&context=3)*  
 Where to buy: [Amazon](https://www.amazon.com/Inland-Platinum-Internal-Compatible-Solutions/dp/B08FT8LFNM)
 
-### WiFi Card
+### Wi-Fi Card
 
-- #### WiFi 6
+- #### Wi-Fi 6
 
 The HP Dev One ships with a Realtek RTL8822CE 802.11ac (Wi-Fi 5) card, instead of a 802.11ax (Wi-Fi 6 or 6E) card, while not a big deal, it would help make this Laptop more future-proof.  
 What makes this laptop so very valuable is its upgradability! The Wi-Fi card can be upgraded as well. For most users the Wi-Fi 5 option is more than plenty, but for those that need Wi-Fi 6, they do have the option to replace the Wi-Fi 5 with a Wi-Fi 6 card.  
@@ -259,7 +259,7 @@ The HP Dev One is compatible with Wi-Fi modules that conform to the [M.2 2230 fo
 Following options to upgrade this laptop with a compatible Wi-Fi 6 card:
 
 - **Intel Wi-Fi 6 AX200** (GIG+) Contributor: [87x9](https://www.reddit.com/r/System76/comments/yool02/comment/izptd3l/?utm_source=share&utm_medium=web2x&context=3)  
-Where to buy: [B&H Foto & Electronics](https://www.bhphotovideo.com/c/product/1591690-REG/intel_ax200_ngwg_dtk_wi_fi_6_gig_desktop.html)  
+Where to buy: [B&H Photo](https://www.bhphotovideo.com/c/product/1591690-REG/intel_ax200_ngwg_dtk_wi_fi_6_gig_desktop.html)  
 *Note: Even though it is the Desktop kit, all you need is the card. When you are replacing the default Wi-Fi 5 card, you will re-use those antenna cables. The kernel supports this card, so no drivers needed*
 
 ## External Devices
@@ -278,9 +278,9 @@ There is also a version D6000S, which DOES NOT have any audio jacks! Info by [ra
 Where to buy: Newegg [New](https://www.newegg.com/black-dell-d6000/p/1DN-0002-000H2)/[Refurbished](https://www.newegg.com/dell-d6000-black/p/1DN-0002-00581), [Amazon](https://www.amazon.com/Dell-452-BCYT-D6000-Universal-Black/dp/B071YTQBXM)
 
 - [Pluggable UD-3900C4 USB-C Quad HDMI Docking Station](https://plugable.com/products/ud-3900c4), [Spec Sheet PDF](https://m.media-amazon.com/images/I/61dUzlBY9dL.pdf)  
-Where to buy: [new egg](https://www.newegg.com/p/pl?d=9SIA2XBJC65504), [Walmart](https://walmart.com/ip/4VPQ6TK0RRHS), [Insight](https://www.insight.com/en_US/shop/product/UD-3900C4/PLUGABLE%20TECHNOLOGIES/UD-3900C4/Plugable-UD3900C4--docking-station--USBC--14slot--4-x-HDMI--GigE/), [Amazon](https://www.amazon.com/dp/B09TSQYGKS)
+Where to buy: [Newegg](https://www.newegg.com/p/pl?d=9SIA2XBJC65504), [Walmart](https://walmart.com/ip/4VPQ6TK0RRHS), [Insight](https://www.insight.com/en_US/shop/product/UD-3900C4/PLUGABLE%20TECHNOLOGIES/UD-3900C4/Plugable-UD3900C4--docking-station--USBC--14slot--4-x-HDMI--GigE/), [Amazon](https://www.amazon.com/dp/B09TSQYGKS)
 
-**Important Note**: Some Hubs offer displayLink monitor connectors. If you DO NOT already have the display link drivers installed for Pop!\_OS, you need to install them in order to use the displayLink ports of your hub. [Download the displayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
+**Important Note**: Some Hubs offer DisplayLink monitor connectors. If you DO NOT already have the DisplayLink drivers installed for Pop!\_OS, you need to install them in order to use the DisplayLink ports of your hub. [Download the DisplayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
 
 ## Accessories
 
