@@ -280,6 +280,9 @@ Where to buy: Newegg [New](https://www.newegg.com/black-dell-d6000/p/1DN-0002-00
 - [Pluggable UD-3900C4 USB-C Quad HDMI Docking Station](https://plugable.com/products/ud-3900c4), [Spec Sheet PDF](https://m.media-amazon.com/images/I/61dUzlBY9dL.pdf)  
 Where to buy: [Newegg](https://www.newegg.com/p/pl?d=9SIA2XBJC65504), [Walmart](https://walmart.com/ip/4VPQ6TK0RRHS), [Insight](https://www.insight.com/en_US/shop/product/UD-3900C4/PLUGABLE%20TECHNOLOGIES/UD-3900C4/Plugable-UD3900C4--docking-station--USBC--14slot--4-x-HDMI--GigE/), [Amazon](https://www.amazon.com/dp/B09TSQYGKS)
 
+- [HP USB-C Dock G5 for business](https://www.hp.com/us-en/shop/pdp/hp-usb-c-dock-g5-p-5tw10aa-aba-1), [spec sheet (PDF)](https://www8.hp.com/h20195/v2/GetDocument.aspx?docname=4aa7-5464enw)
+Other places to buy: [Amazon](https://www.amazon.com/HP-USB-C-5TW10AA-Wired-Notebook/dp/B07RGC9QSL), [Walmart](https://www.walmart.com/ip/HP-USB-C-Dock-G5-for-business/142684313), [Best Buy](https://www.bestbuy.com/site/hp-usb-type-c-docking-station/6395981.p?skuId=6395981)
+
 **Important Note**: Some Hubs offer DisplayLink monitor connectors. If you DO NOT already have the DisplayLink drivers installed for Pop!\_OS, you need to install them in order to use the DisplayLink ports of your hub. [Download the DisplayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
 
 ## Accessories
