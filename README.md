@@ -283,6 +283,9 @@ Where to buy: [Newegg](https://www.newegg.com/p/pl?d=9SIA2XBJC65504), [Walmart](
 - [HP USB-C Dock G5 for business](https://www.hp.com/us-en/shop/pdp/hp-usb-c-dock-g5-p-5tw10aa-aba-1), [spec sheet (PDF)](https://www8.hp.com/h20195/v2/GetDocument.aspx?docname=4aa7-5464enw)
 Other places to buy: [Amazon](https://www.amazon.com/HP-USB-C-5TW10AA-Wired-Notebook/dp/B07RGC9QSL), [Walmart](https://www.walmart.com/ip/HP-USB-C-Dock-G5-for-business/142684313), [Best Buy](https://www.bestbuy.com/site/hp-usb-type-c-docking-station/6395981.p?skuId=6395981)
 
+- [HP Thunderbolt Dock 120W G4](https://www.hp.com/us-en/shop/pdp/hp-thunderbolt-dock-120w-g4), [spec sheet (PDF)](https://www8.hp.com/h20195/v2/GetDocument.aspx?docname=c08817801)
+Other places to buy: [Amazon](https://www.amazon.com/HP-Thunderbolt-Dock-120W-Model/dp/B0B66PBJFV), [Target](https://www.target.com/p/hp-inc-thunderbolt-dock-120w-g4/-/A-92927423), [Best Buy](https://www.bestbuy.com/site/hp-thunderbolt-4-docking-station/6523277.p?skuId=6523277), [B&H Photo Video](https://www.target.com/p/hp-inc-thunderbolt-dock-120w-g4/-/A-92927423)
+
 **Important Note**: Some Hubs offer DisplayLink monitor connectors. If you DO NOT already have the DisplayLink drivers installed for Pop!\_OS, you need to install them in order to use the DisplayLink ports of your hub. [Download the DisplayLink drivers](https://www.synaptics.com/products/displaylink-graphics/downloads/ubuntu).  
 
 ## Accessories
