@@ -294,7 +294,9 @@ Where to buy: [Amazon](https://www.amazon.com/gp/product/B09B78WPXK)
 
 ### Batteries
 
-Coming Soon !
+The OEM battery may be found on the HP Parts Store [page](https://parts.hp.com/hpparts/Default.aspx).  Using the search box at the top of the page, search for the part number `L78555-005`.  This battery has a capacity of 53Wh or 4.59Ah.
+
+This battery may be sold via other third-party sellers.  See #29 for more details.
 
 ### Adapters
 
