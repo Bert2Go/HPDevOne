@@ -266,8 +266,9 @@ Where to buy: [B&H Photo](https://www.bhphotovideo.com/c/product/1591690-REG/int
 
 ### Monitors
 
-- SAMSUNG 49-inch Odyssey G9 Gaming Monitor:  
-Monitors max resolution is 5120x1440p and max refresh rate is 120Hz. All resolutions are supported. In the settings it shows as 'Unknown 49"' with a refresh rate selection of 59.98Hz only, it should go up to 120Hz, it shows that on my Pop!\_OS Linux desktop. This could be due to the HDMI cable limitations. I will check with other cables and also try the USB-C port using an adapter since the Monitor doesn't have a USB-C monitor input.
+- [SAMSUNG 49-inch Odyssey G9 Gaming Monitor](https://www.samsung.com/us/computing/monitors/gaming/49-odyssey-g9-dqhd-240hz-1ms-gtg-displayhdr-1000-gaming-monitor-ls49cg954enxza/), [Spec Sheet (PDF)](https://image-us.samsung.com/SamsungUS/home/computing/monitors/gaming/ls49cg954enxza/G95CSpecSheetVF.pdf)  
+Monitors max resolution is 5120x1440p and max refresh rate is 120Hz. All resolutions are supported. In the settings it shows as 'Unknown 49"' with a refresh rate selection of 59.98Hz only, it should go up to 120Hz, it shows that on my Pop!\_OS Linux desktop. This could be due to the HDMI cable limitations. I will check with other cables and also try the USB-C port using an adapter since the Monitor doesn't have a USB-C monitor input.  
+Where to buy: [Best Buy](https://www.bestbuy.com/site/samsung-49-odyssey-oled-g9-g95sc-dqhd-240hz-0-03ms-g-sync-compatible-curved-smart-gaming-monitor-silver/6544291.p?skuId=6544291), [Amazon](https://www.amazon.com/SAMSUNG-DisplayHDR-Standard-Software-Protection/dp/B0D3FBTJNG)
 
 ### Hubs
 
