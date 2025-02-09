@@ -32,6 +32,7 @@
   - [Batteries](#batteries)
   - [Adapters](#adapters)
 - [Function Keys Explained](#function-keys-explained)
+- [Pointing Stick Scrolling](#pointing-stick-scrolling)
 - [Videos](#videos)
   - [Removing and Replacing Parts](#removing-and-replacing-parts)
   - [Series of Videos about the HP Dev One](#series-of-videos-about-the-hp-dev-one)
@@ -328,6 +329,18 @@ FN-F1: Screen symbol with a bar to the right and the left
 | <kbd>F9</kbd> | Keyboard with outer lines | Cycle through keyboard backlight brightness |
 | <kbd>F11</kbd> | Plane | Toggle airplane mode |
 | <kbd>F12</kbd> | Triple Square | Programmable hotkey |
+
+## Pointing Stick Scrolling
+
+The behavior of the pointing stick can be modified so that scrolling can be done by holding both the left and right mouse buttons down while moving the pointing stick up or down.  This simulates middle click scrolling with TrackPoints on ThinkPads.
+
+Follow the following steps to enable this:
+1.  Create or edit the file at `~/.profile` with the following:
+  ```
+  # Middle click scrolling
+  xinput set-prop 10 "libinput Middle Emulation Enabled" 1
+  ```
+2.  Restart the computer for the change to take effect.
 
 ## Videos
 
