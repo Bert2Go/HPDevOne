@@ -346,8 +346,8 @@ Follow the following steps to enable this:
 
 ### Removing and Replacing Parts
 
-- [Removing & Replacing Parts by HP](https://www.youtube.com/watch?v=RkAOS9f5p1I) - Great find by [cutememe](https://www.reddit.com/r/System76/comments/wlpfrk/comment/ikf5oys/?utm_source=share&utm_medium=web2x&context=3)  
-*Note: Even though this is for the HP EliteBook 845 G8 Notebook it can be fully applied to the HP Dev One, aside of a few exceptions/differences mentioned below.*  
+- Removing & Replacing Parts: [service teardown by HP](https://www.youtube.com/watch?v=RkAOS9f5p1I) - originally found by [u/cutememe](https://www.reddit.com/r/System76/comments/wlpfrk/comment/ikf5oys/?utm_source=share&utm_medium=web2x&context=3)  
+*Note: Even though this is for the HP EliteBook 845 G8 Notebook, it can be fully applied to the HP Dev One, beside a few exceptions/differences mentioned below.*  
 List of exceptions/differences in this video that do NOT apply to the HP Dev One:
   - The screws on the HP Dev One are Torx T5 screws, not P1 Phillips-head screws
   - The video shows a WAN module covered by a mylar shield, but the HP Dev One does NOT have this piece of hardware
